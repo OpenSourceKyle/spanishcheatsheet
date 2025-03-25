@@ -12,25 +12,38 @@ weight: 1
 
 # 1. Conectores Temporales ⏰
 
-**Definición:**  
+## Definición 📝
 Palabras que enlazan oraciones indicando relaciones temporales (simultaneidad, anterioridad o posterioridad). El uso adecuado determina si se usa indicativo (para hechos conocidos o habituales) o subjuntivo (para acciones futuras o no realizadas).
 
-**Términos (con traducción y notas de registro):**  
-- **cuando** – (when) Neutro  
-- **mientras (que)** – (while) Neutro  
-- **antes / antes de que** – (before) Nota: *"antes de que"* exige subjuntivo cuando los sujetos son distintos.  
-- **después de que** – (after) Puede usar indicativo o subjuntivo según el contexto  
-- **hasta que** – (until) Indicativo para hechos pasados/habituales; subjuntivo para pendientes  
-- **en cuanto / tan pronto como** – (as soon as) Neutro; "tan pronto como" es ligeramente más formal  
-- **nada más** – (just after/as soon as) Informal  
-- **cada vez** – (every time) Neutro  
-- **siempre / todas las veces** – (always / every time) Neutro  
-- **una vez / una vez que** – (once) "una vez que" es más formal  
-- **al** – (upon) Neutro  
-- **apenas** – (as soon as) Registro escrito o literario  
-- **siempre que** – (whenever/as long as) Neutro
+## Términos 📚
+- **cuando** (Neutro)
+  - when
+- **mientras (que)** (Neutro)
+  - while
+- **antes / antes de que** (Neutro + Subjuntivo con sujetos distintos)
+  - before
+- **después de que** (Neutro + Indicativo/Subjuntivo según contexto)
+  - after
+- **hasta que** (Neutro + Indicativo para pasado/habitual; Subjuntivo para pendiente)
+  - until
+- **en cuanto / tan pronto como** (Neutro + "tan pronto como" más formal)
+  - as soon as
+- **nada más** (Informal)
+  - just after/as soon as
+- **cada vez** (Neutro)
+  - every time
+- **siempre / todas las veces** (Neutro)
+  - always / every time
+- **una vez / una vez que** (Neutro + "una vez que" más formal)
+  - once
+- **al** (Neutro)
+  - upon
+- **apenas** (Formal + Registro escrito/literario)
+  - as soon as
+- **siempre que** (Neutro)
+  - whenever/as long as
 
-**Ejemplos:**  
+## Ejemplos  
 1. Te llamo en cuanto **llegue**. (Subjuntivo)  
 2. Nada más **terminar**, salió. (Indicativo)  
 3. Lo veo cada vez que **viene**. (Indicativo)
@@ -39,53 +52,144 @@ Palabras que enlazan oraciones indicando relaciones temporales (simultaneidad, a
 
 # 2. Verbos de Opinión 💭
 
-**Definición:**  
+## Definición 📝
 Se usan para expresar creencias o suposiciones. Las oraciones que los acompañan varían en modo:  
 - **Indicativo** para afirmaciones positivas.  
 - **Subjuntivo** en negaciones o dudas.
 
-**Términos y expresiones (con traducción):**  
-- **creer que** – to believe that  
-- **pensar que** – to think that  
-- **opinar que** – to give an opinion  
-- **asignar** – to assign (formal)  
-- **considerar que** – to consider that (formal/neutro)  
-- **estimar que** – to deem/estimate that (formal)  
-- **me parece que** – it seems to me that  
-- **no creo que** – I don't think that  
-- **supongo que** – I suppose that
+## Términos y expresiones 🗣️
+- **creer que** (Neutro + Indicativo)
+  - to believe that
+- **pensar que** (Neutro + Indicativo)
+  - to think that
+- **opinar que** (Neutro + Indicativo)
+  - to give an opinion
+- **asignar** (Formal)
+  - to assign
+- **me parece que** (Neutro + Indicativo)
+  - it seems to me that
+- **no creo que** (Neutro + Subjuntivo)
+  - I don't think that
+- **supongo que** (Neutro + Indicativo)
+  - I suppose that
 
-**Ejemplos:**  
+## Ejemplos  
 1. Creo que **es** una buena idea. (Indicativo)  
 2. No creo que **tengas** razón. (Subjuntivo)  
 3. Me parece que **está** bien hecho. (Indicativo)
+
+## Juicio de Valor ⚖️
+### Indicativo ✅
+- **seguro** (Neutro + Indicativo)
+  - sure
+- **obvio** (Neutro + Indicativo)
+  - obvious
+- **cierto** (Neutro + Indicativo)
+  - certain
+- **indudable** (Formal + Indicativo)
+  - undoubted
+- **innegable** (Formal + Indicativo)
+  - undeniable
+- **claro** (Neutro + Indicativo)
+  - clear
+- **comprobado** (Formal + Indicativo)
+  - proven
+
+### Subjuntivo ❓
+- **normal** (Neutro + Subjuntivo)
+  - normal
+- **lógico** (Neutro + Subjuntivo)
+  - logical
+- **horrible** (Neutro + Subjuntivo)
+  - horrible
+- **increíble** (Neutro + Subjuntivo)
+  - incredible
+- **bien** (Neutro + Subjuntivo)
+  - good
+- **necesario** (Neutro + Subjuntivo)
+  - necessary
+- **importante** (Neutro + Subjuntivo)
+  - important
+- **triste** (Neutro + Subjuntivo)
+  - sad
+- **bueno** (Neutro + Subjuntivo)
+  - good
+- **mal** (Neutro + Subjuntivo)
+  - bad
+- **malo** (Neutro + Subjuntivo)
+  - bad
+
+### Decir
+#### Indicativo
+- **alguien dijo que...** – someone said that...
+
+#### Subjuntivo
+- **alguien ordenó que...** – someone ordered that...
 
 ---
 
 # 3. Verbos de Juicio de Valor ⭐
 
-**Definición:**  
+## Definición 📝
 Evalúan situaciones, expresando opiniones o valoraciones (positivas, negativas, de necesidad, etc.). Pueden aparecer en estructuras impersonales o personales.
 
-**A. Adjetivos y calificativos (para afirmaciones):**  
-- **seguro, obvio, cierto, indudable, innegable, claro, comprobado** (Indicativo)
+## Adjetivos y calificativos 📊
+- **seguro** (Neutro + Indicativo)
+  - sure
+- **obvio** (Neutro + Indicativo)
+  - obvious
+- **cierto** (Neutro + Indicativo)
+  - certain
+- **indudable** (Formal + Indicativo)
+  - undoubted
+- **innegable** (Formal + Indicativo)
+  - undeniable
+- **claro** (Neutro + Indicativo)
+  - clear
+- **comprobado** (Formal + Indicativo)
+  - proven
 
-**B. Expresiones comunes (usualmente con subjuntivo al expresar duda o valoración subjetiva):**  
-- **Es importante que...**  
-- **Es necesario que...**  
-- **Es bueno que... / Es malo que...**  
-- **Es mejor que...**  
-- **Es recomendable que...**  
-- **Es una lástima que...**  
-- **Es justo/injusto que...**  
-- **Es increíble que...**  
-- **Me parece bien/mal que...**  
-- **Más vale que...**  
-- **Vale la pena que...**  
-- **Agradezco que...**  
-- **Lamento que...**
+## Expresiones comunes
+- **Es normal que...** (Neutro + Subjuntivo)
+  - It is normal that...
+- **Es lógico que...** (Neutro + Subjuntivo)
+  - It is logical that...
+- **Es horrible que...** (Neutro + Subjuntivo)
+  - It is horrible that...
+- **Es increíble que...** (Neutro + Subjuntivo)
+  - It is incredible that...
+- **Es bien que...** (Neutro + Subjuntivo)
+  - It is good that...
+- **Es necesario que...** (Neutro + Subjuntivo)
+  - It is necessary that...
+- **Es importante que...** (Neutro + Subjuntivo)
+  - It is important that...
+- **Es triste que...** (Neutro + Subjuntivo)
+  - It is sad that...
+- **Es bueno que...** (Neutro + Subjuntivo)
+  - It is good that...
+- **Es mal que...** (Neutro + Subjuntivo)
+  - It is bad that...
+- **Es malo que...** (Neutro + Subjuntivo)
+  - It is bad that...
+- **Es recomendable que...** (Formal + Subjuntivo)
+  - It is recommended that...
+- **Es una lástima que...** (Neutro + Subjuntivo)
+  - It's a shame that...
+- **Es justo/injusto que...** (Neutro + Subjuntivo)
+  - It is fair/unfair that...
+- **Me parece bien/mal que...** (Neutro + Subjuntivo)
+  - It seems good/bad to me that...
+- **Más vale que...** (Informal + Subjuntivo)
+  - It's better that...
+- **Vale la pena que...** (Neutro + Subjuntivo)
+  - It's worth it that...
+- **Agradezco que...** (Formal + Subjuntivo)
+  - I appreciate that...
+- **Lamento que...** (Neutro + Subjuntivo)
+  - I regret that...
 
-**Ejemplos:**  
+## Ejemplos  
 1. Es obvio que **tiene** razón. (Indicativo)  
 2. Es importante que **vengas**. (Subjuntivo)  
 3. ¡Qué lástima que **no puedan** venir! (Subjuntivo)
@@ -94,26 +198,42 @@ Evalúan situaciones, expresando opiniones o valoraciones (positivas, negativas,
 
 # 4. Oraciones Adjetivas/Relativas 🔍
 
-**Definición:**  
+## Definición 📝
 Describen o especifican un sustantivo. Se distinguen dos usos:  
 - **Especificativas** (sin comas) cuando el referente es indeterminado o se busca identificarlo.  
 - **Explicativas** (con comas) para añadir información extra sobre un referente ya conocido.
 
-**Términos clave (pronombres relativos y conectores):**  
-- **que** – (that, which, who) Neutro  
-- **quien(es)** – (who, whom) Formal/neutral; usado tras preposición  
-- **el/la/lo que; los/las que** – (that/which/who) Más formal o para mayor claridad  
-- **el/la cual; los/las cuales** – (which/who) Muy formal  
-- **cuyo/a/os/as** – (whose) Formal/literario  
-- **donde** – (where) Neutro  
-- **como** – (how, as) Neutro  
-- **cuando** – (when) Neutro
+## Términos clave 🔑
+- **que** (Neutro + Uso general)
+  - that, which, who
+- **donde** (Neutro)
+  - where
+- **como** (Neutro)
+  - how, as
+- **cuando** (Neutro)
+  - when
+- **quien(es)** (Formal/Neutro + Usado tras preposición)
+  - who, whom
+- **el/la/lo que; los/las que** (Formal + Para mayor claridad)
+  - that/which/who
+- **el/la cual; los/las cuales** (Muy formal)
+  - which/who
+- **cuyo/a/os/as** (Formal/Literario)
+  - whose
 
-**Uso del modo verbal:**  
-- **Indicativo:** Referente concreto o conocido. Ej.: *Conozco al profesor que enseña francés.*  
-- **Subjuntivo:** Referente hipotético o no confirmado. Ej.: *Busco un libro que **tenga** dibujos.*
+## Uso del modo verbal 📖
+- **Indicativo:** Referente concreto o conocido. Ej.: *Conozco al profesor que enseña francés.* (Cosa específica)  
+- **Subjuntivo:** Referente hipotético o no confirmado. Ej.: *Busco un libro que tenga dibujos.* (Cosa desconocida o en general)
 
-**Ejemplos adicionales:**  
+## Oraciones Especificativas  
+- Sin comas: *que* o *preposición + relativo*  
+- Ejemplo: *El libro que leí es interesante.* (The book that I read is interesting)
+
+## Oraciones Explicativas  
+- Con comas: *que*, *lo/el/la/los/las que*, *lo/el/la/los/las cual(es)*, *quien*, *cual*, *cuyo*  
+- Ejemplo: *El libro, que es muy interesante, está en la mesa.* (The book, which is very interesting, is on the table)
+
+## Ejemplos adicionales  
 1. No hay nadie **que pueda** ayudarme. (Subjuntivo)  
 2. Barcelona, **que es** una ciudad costera, atrae a muchos turistas. (Explicativa – Indicativo)
 
@@ -121,84 +241,207 @@ Describen o especifican un sustantivo. Se distinguen dos usos:
 
 # 5. Voz Pasiva 🔄
 
-**Definición:**  
+## Definición 📝
 Se emplea para resaltar la acción o el objeto en vez del sujeto. Existen dos formas principales:
 
-**A. Pasiva con "ser":**  
+## Pasiva con "ser" 📋
 - **Estructura:** Sujeto paciente + ser (tiempo adecuado) + participio pasado (+ por + agente).  
 - Ej.: *El libro **fue escrito** por ella.*  
 - Uso formal y frecuente en textos escritos.
 
-**B. Pasiva refleja:**  
+## Pasiva refleja 🔁
 - **Estructura:** Se + verbo en 3ª persona + sujeto paciente (posterior).  
 - Ej.: *Se vendieron todas las entradas.*  
 - Común en el lenguaje cotidiano y anuncios.
 
-**Nota:**  
+## Nota  
 - Con *estar + participio* se indica un estado resultante, no la acción en sí.
 
 ---
 
 # 6. Marcadores Textuales 📋
 
-**Definición:**  
+## Definición 📝
 Palabras o expresiones que estructuran el discurso conectando ideas. Su uso adecuado da cohesión y fluidez al texto.
 
-**Por función:**
+## Por función
 
-- **Adición:**  
-  - además, también, asimismo, incluso, es más, por añadidura, encima
+### Nuevo tema 🆕
+- **en cuanto** (Neutro)
+  - as for
+- **respecto a** (Neutro)
+  - regarding
+- **a propósito** (Neutro)
+  - on purpose
 
-- **Contraste/Oposición:**  
-  - pero, sin embargo, no obstante, en cambio, por el contrario, al contrario, a pesar de (que), pese a (que), aunque, aun así
+### Adición ➕
+- **además** (Neutro)
+  - moreover, furthermore
+- **también** (Neutro)
+  - also
+- **no solo... sino también** (Neutro)
+  - not only... but also
+- **asimismo** (Formal)
+  - likewise, similarly
+- **así pues** (Neutro)
+  - thus
+- **igualmente** (Neutro)
+  - equally
+- **incluso** (Neutro)
+  - even (more importantly)
+- **encima** (Informal)
+  - on top of that (somewhat annoying)
+- **tampoco** (Negativo)
+  - neither (negative)
+- **ni** (Negativo)
+  - nor (negative)
+- **ni siquiera** (Negativo)
+  - not even (negative)
 
-- **Secuencia/Orden:**  
-  - primero / en primer lugar, luego / después, a continuación, seguidamente, por último / finalmente, al principio / al inicio, más adelante
+### Contraste/Oposición ⚔️
+- **pero** (Neutro)
+  - but
+- **sin embargo** (Neutro)
+  - however
+- **no obstante** (Formal)
+  - nevertheless
+- **en cambio** (Neutro)
+  - on the other hand
+- **por el contrario** (Formal)
+  - on the contrary
+- **al contrario** (Neutro)
+  - on the contrary
+- **a pesar de (que)** (Neutro)
+  - despite, in spite of
+- **pese a (que)** (Formal)
+  - despite, although
+- **aunque** (Neutro)
+  - although, even though
+- **aun así** (Neutro)
+  - even so
 
-- **Ejemplificación/Explicación:**  
-  - por ejemplo, es decir, o sea, en otras palabras, como (introduciendo ejemplos), pongamos por caso
+### Secuencia/Orden 📅
+- **primero / en primer lugar** (Neutro)
+  - first / firstly
+- **luego / después** (Neutro)
+  - then / afterwards
+- **a continuación** (Neutro)
+  - next, following
+- **seguidamente** (Formal)
+  - subsequently
+- **por último / finalmente** (Neutro)
+  - lastly / finally
+- **al principio / al inicio** (Neutro)
+  - at the beginning / at the start
+- **más adelante** (Neutro)
+  - later on
 
-- **Énfasis/Reformulación:**  
-  - de hecho, en realidad, sin duda, ciertamente, por supuesto, en efecto, mejor dicho, más bien
+### Ejemplificación/Explicación 💡
+- **por ejemplo** (Neutro)
+  - for example
+- **es decir** (Neutro)
+  - that is to say
+- **o sea** (Informal)
+  - in other words
+- **en otras palabras** (Neutro)
+  - in other words
+- **como** (Neutro)
+  - such as, like
+- **pongamos por caso** (Formal)
+  - let's take the case
 
-- **Conclusión/Resumen:**  
-  - en resumen, en pocas palabras, para resumir, en suma, globalmente, en definitiva, al fin y al cabo, en conclusión, para finalizar
+### Énfasis/Reformulación 🎯
+- **de hecho** (Neutro)
+  - in fact
+- **en realidad** (Neutro)
+  - actually, in reality
+- **sin duda** (Neutro)
+  - without doubt
+- **ciertamente** (Formal)
+  - certainly
+- **por supuesto** (Neutro)
+  - of course
+- **en efecto** (Formal)
+  - indeed
+- **mejor dicho** (Neutro)
+  - rather, more precisely
+- **más bien** (Neutro)
+  - rather
 
-**Ejemplo de uso:**  
+### Conclusión/Resumen 🎬
+- **en resumen** (Neutro)
+  - in summary
+- **en pocas palabras** (Neutro)
+  - in a few words
+- **para resumir** (Neutro)
+  - to sum up
+- **en suma** (Formal)
+  - in sum
+- **globalmente** (Formal)
+  - globally
+- **en definitiva** (Neutro)
+  - ultimately
+- **al fin y al cabo** (Informal)
+  - after all
+- **en conclusión** (Neutro)
+  - in conclusion
+- **para finalizar** (Neutro)
+  - to conclude
+
+## Ejemplo de uso  
 *En primer lugar*, se expone la idea. *Además*, se aportan evidencias. *Sin embargo*, hay discrepancias. *En conclusión*, se demuestra la tesis.
 
 ---
 
 # 7. Causa vs Consecuencia ⚡
 
-**Definición:**  
+## Definición 📝
 Conectores que indican la razón (causa) y el resultado (consecuencia) de una acción o situación.
 
-**Causa (para el pasado):**  
-- **porque** – because (Neutro)  
-- **como** – since (al inicio) (Neutro)  
-- **ya que** – since (Neutro)  
-- **puesto que** – since (Neutro)  
-- **debido a que** – due to the fact that (Formal)  
-- **por** – because of (Neutro)  
-- **a causa de** – because of (Neutro)  
-- **gracias a que** – thanks to the fact that (Neutro)
+## Causa ⚓
+- **porque** (Neutro)
+  - because
+- **como** (Neutro + Usado al inicio)
+  - since
+- **ya que** (Neutro)
+  - since
+- **puesto que** (Neutro)
+  - since
+- **debido a que** (Formal)
+  - due to the fact that
+- **por** (Neutro)
+  - because of
+- **a causa de** (Neutro)
+  - because of
+- **gracias a que** (Neutro)
+  - thanks to the fact that
 
-**Consecuencia (para el futuro o resultado):**
+## Consecuencia 🎲
+### Después de una coma
+- **así que** (Neutro)
+  - so (remove "que" with pronouns)
+- **con lo que / conque** (Neutro)
+  - so
+- **de manera/forma/modo que** (Neutro)
+  - so that
+- **por lo que** (Neutro)
+  - so
+- **de forma que** (Neutro)
+  - so that
+- **de modo que** (Neutro)
+  - so that
+- **de ahí que** (Neutro + Subjuntivo)
+  - hence
 
-*Después de una coma:*  
-- **así que** – so (Neutro)  
-- **con lo que / conque** – so (Neutro)  
-- **de manera que / de forma que / de modo que** – so that (Neutro)  
-- **por lo que** – so (Neutro)  
-- **de ahí que** – hence (usa subjuntivo) (Neutro)
+### Entre comas
+- **por consiguiente** (Formal)
+  - therefore
+- **en consecuencia** (Formal)
+  - as a consequence
+- **por lo tanto** (Formal)
+  - therefore
 
-*Entre comas:*  
-- **por consiguiente** – therefore (Formal)  
-- **en consecuencia** – as a consequence (Formal)  
-- **por lo tanto** – therefore (Formal)
-
-**Ejemplos:**  
+## Ejemplos  
 1. Como era tarde, no fuimos. (Causa)  
 2. Estaba cansado, así que se fue. (Consecuencia)  
 3. Estudió mucho, de ahí que **aprobara**. (Subjuntivo)
@@ -207,32 +450,36 @@ Conectores que indican la razón (causa) y el resultado (consecuencia) de una ac
 
 # 8. Consejos: de Directo a Indirecto 💬
 
-**Definición:**  
+## Definición 📝
 Formas de dar consejos que pueden expresarse de forma directa (mandatos) o indirecta (sugerencias suavizadas).
 
-**Formas comunes:**
+## Formas directas ➡️
+- **Imperativo** (Directo + Mandato)
+  - Ejemplo: *¡Hazlo ya!*
+- **Deber + infinitivo** (Directo + Obligación)
+  - Ejemplo: *Debes estudiar.*
+- **Tener que + infinitivo** (Directo + Obligación)
+  - Ejemplo: *Tienes que estudiar.*
 
-- **Directo:**  
-  - Imperativo: Ej. *¡Hazlo ya!*  
-  - Deber / Tienes que + infinitivo: Ej. *Debes estudiar.*
+## Formas indirectas ↪️
+- **Deberías/Podrías + infinitivo** (Suave + Sugerencia)
+  - Ejemplo: *Deberías descansar más.*
+- **Verbo de consejo + que + subjuntivo** (Neutro + Sugerencia)
+  - Ejemplo: *Te recomiendo que estudies.*
+- **Estructura impersonal** (Neutro + Sugerencia)
+  - Ejemplo: *Es importante que llegues temprano.*
+- **Pregunta sugerente** (Suave + Sugerencia)
+  - Ejemplo: *¿Por qué no hablas más despacio?*
+- **Condicional** (Suave + Sugerencia)
+  - Ejemplo: *Yo que tú, iría al médico.*
 
-- **Indirecto:**  
-  - Deberías / Podrías + infinitivo: Ej. *Deberías descansar más.*  
-  - Verbo de consejo + que + subjuntivo: Ej. *Te recomiendo que estudies.*  
-  - Estructura impersonal: Ej. *Es importante que llegues temprano.*  
-  - Pregunta sugerente: Ej. *¿Por qué no hablas más despacio?*  
-  - Condicional: Ej. *Yo que tú, iría al médico.*
-
-**Transformación:**  
-Para suavizar un mandato, se pasa del imperativo al uso de estructuras condicionales o con subjuntivo, lo que atenúa la fuerza del consejo.
-
-**Ejemplos:**  
+## Ejemplos de transformación
 1. **Directo:** *No comas tanta comida chatarra.*  
-   **Indirecto:** *Deberías moderar la comida chatarra.*  
+   **Indirecto:** *Deberías moderar la comida chatarra.*
 2. **Directo:** *Habla más despacio.*  
-   **Indirecto:** *¿Por qué no hablas más despacio?*  
+   **Indirecto:** *¿Por qué no hablas más despacio?*
 3. **Directo:** *Tienes que estudiar para el examen.*  
-   **Indirecto:** *Sería bueno que estudiaras para el examen.*  
+   **Indirecto:** *Sería bueno que estudiaras para el examen.*
 4. **Directo:** *¡Dime la verdad!*  
    **Indirecto:** *Me gustaría que me dijeras la verdad.*
 
@@ -240,31 +487,51 @@ Para suavizar un mandato, se pasa del imperativo al uso de estructuras condicion
 
 # 9. Estilos: Directo e Indirecto (Citas) 💫
 
-**Definición:**  
+## Definición 📝
 El estilo directo reproduce las palabras exactas (usando comillas o guiones), mientras que el indirecto integra el mensaje adaptando pronombres, adverbios y tiempos verbales.
 
-**Transformación de tiempos (de directo a indirecto, con verbo introductorio en pasado):**
+## Transformación de tiempos verbales ⏳
 
-| Directo (tiempo original)                  | Indirecto (tiempo transformado)         | Ejemplo Directo                | Ejemplo Indirecto                            |
-| ------------------------------------------ | --------------------------------------- | ------------------------------ | -------------------------------------------- |
-| Presente de indicativo                     | Pretérito imperfecto de indicativo      | "Estoy cansado"                | Dijo que **estaba** cansado.                 |
-| Pretérito perfecto simple (Indefinido)     | Pretérito pluscuamperfecto de indicativo  | "Fui al banco"                 | Dijo que **había ido** al banco.             |
-| Pretérito perfecto compuesto               | Pretérito pluscuamperfecto de indicativo  | "He ido al banco"              | Dijo que **había ido** al banco.             |
-| Pretérito imperfecto de indicativo         | (Se mantiene igual)                      | "Le gustaba el café"           | Dijo que **le gustaba** el café.             |
-| Futuro simple                              | Condicional simple                       | "Iré mañana"                   | Dijo que **iría** al día siguiente.          |
-| Futuro compuesto                           | Condicional compuesto                    | "Habré terminado para entonces" | Dijo que **habría terminado** para entonces. |
-| Imperativo                                 | Pretérito imperfecto de subjuntivo        | "Ven aquí"                     | Pidió que **fueras** allí.                   |
-| Presente de subjuntivo / Imperativo        | Pretérito imperfecto de subjuntivo        | "Quiero que **vengas**"         | Dijo que quería **que vinieras**.            |
+| Directo (tiempo original) | Indirecto (transformado) | Ejemplo Directo | Ejemplo Indirecto |
+|--------------------------|-------------------------|-----------------|-------------------|
+| Presente de indicativo | Pretérito imperfecto de indicativo | "Estoy cansado" | Dijo que **estaba** cansado |
+| Pretérito perfecto simple (Indefinido) | Pretérito pluscuamperfecto de indicativo | "Fui al banco" | Dijo que **había ido** al banco |
+| Pretérito perfecto compuesto | Pretérito pluscuamperfecto de indicativo | "He ido al banco" | Dijo que **había ido** al banco |
+| Pretérito imperfecto de indicativo | (Se mantiene igual) | "Le gustaba el café" | Dijo que **le gustaba** el café |
+| Futuro simple | Condicional simple | "Iré mañana" | Dijo que **iría** al día siguiente |
+| Futuro compuesto | Condicional compuesto | "Habré terminado para entonces" | Dijo que **habría terminado** para entonces |
+| Imperativo | Pretérito imperfecto de subjuntivo | "Ven aquí" | Pidió que **fueras** allí |
+| Presente de subjuntivo / Imperativo | Pretérito imperfecto de subjuntivo | "Quiero que **vengas**" | Dijo que quería **que vinieras** |
 
-**Notas adicionales:**  
-- Cambian los pronombres y adverbios de tiempo/lugar:  
-  *"hoy" → "ese día", "mañana" → "al día siguiente", "aquí" → "allí".*  
-- Las preguntas directas se transforman en oraciones declarativas introducidas por *que* (para preguntas indirectas) o *si* (para preguntas de sí/no).
+## Notas adicionales 📌
 
-**Ejemplos:**  
+### Cambios de expresiones temporales y espaciales 🗺️
+
+| Estilo Directo | Estilo Indirecto |
+|----------------|------------------|
+| **hoy** | ese día |
+| **mañana** | al día siguiente |
+| **ayer** | el día anterior |
+| **ahora** | entonces |
+| **aquí** | allí |
+| **esta semana** | esa semana |
+| **este mes** | ese mes |
+| **este año** | ese año |
+| **la próxima semana** | la semana siguiente |
+| **el próximo mes** | el mes siguiente |
+| **el próximo año** | el año siguiente |
+
+### Cambios en preguntas 💭
+
+| Tipo de pregunta | Introducción | Ejemplo Directo | Ejemplo Indirecto |
+|------------------|--------------|-----------------|-------------------|
+| Pregunta indirecta | **que** | "¿Dónde vives?" | Preguntó **que** dónde vivía |
+| Pregunta de sí/no | **si** | "¿Vendrás mañana?" | Preguntó **si** vendría al día siguiente |
+
+## Ejemplos completos 📝
 1. **Directo:** Juan: "Estoy muy feliz."  
-   **Indirecto:** Juan dijo que **estaba** muy feliz.  
+   **Indirecto:** Juan dijo que **estaba** muy feliz.
 2. **Directo:** María: "¿Podrás ayudarme mañana?"  
-   **Indirecto:** María preguntó **si podría** ayudarla **al día siguiente**.  
+   **Indirecto:** María preguntó **si podría** ayudarla **al día siguiente**.
 3. **Directo:** El profesor: "Estudien este capítulo."  
    **Indirecto:** El profesor pidió **que estudiaran** ese capítulo.
