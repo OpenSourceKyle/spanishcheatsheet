@@ -1,7 +1,12 @@
-Aquí está el contenido en formato Markdown, listo para integrarse en tu sitio Hugo:
-
-```markdown
-# Hoja de trucos de gramática avanzada en español
+---
+title: "Cheatsheet_4o"
+date: 2024-03-25
+draft: false
+description: "Una guía esencial de gramática española avanzada, cubriendo los conceptos fundamentales con ejemplos prácticos"
+tags: ["Spanish", "Grammar", "Advanced", "Essential"]
+categories: ["Language Learning"]
+weight: 3
+---
 
 ## 1. Conectores Temporales
 
@@ -140,138 +145,4 @@ Aquí está el contenido en formato Markdown, listo para integrarse en tu sitio 
 **Explicación:** Organizan y conectan ideas. Se usan comúnmente en textos académicos.
 
 **Ejemplos de marcadores (formalidad):**
-
-- **Orden/secuencia:**  
-  - Antes de nada *(formal)*  
-  - En primer lugar *(formal)*  
-  - Luego *(neutro)*  
-  - Por último *(formal)*
-
-- **Introducir un tema:**  
-  - En cuanto a *(formal)*  
-  - Por lo que se refiere a *(muy formal)*
-
-- **Añadir ideas:**  
-  - Además *(formal)*  
-  - También *(neutro)*
-
-- **Explicar:**  
-  - Es decir *(neutro)*  
-  - O sea *(informal)*  
-  - En efecto *(formal)*
-
-- **Ejemplificar:**  
-  - Por ejemplo *(neutro)*
-
-- **Opinión personal:**  
-  - En mi opinión *(formal)*  
-  - Yo creo que *(neutro)*  
-  - Personalmente *(neutro)*
-
-- **Hipótesis:**  
-  - Es posible *(formal)*  
-  - Quizá(s), tal vez *(neutro)*
-
-- **Contraste:**  
-  - Pero *(neutro)*  
-  - Sin embargo *(formal)*
-
-- **Consecuencia:**  
-  - Por lo tanto *(formal)*  
-  - Así que *(neutro)*  
-  - De ahí que *(muy formal)*
-
-- **Causa:**  
-  - Porque *(neutro)*  
-  - Debido a *(formal)*
-
-- **Resumir/concluir:**  
-  - En resumen *(formal)*  
-  - Para terminar *(formal)*
-
-**Ejemplos:**
-1. Primero, revisamos la teoría; luego, analizamos los casos.  
-2. Además, se debe considerar el contexto.  
-3. Sin embargo, los resultados fueron mixtos.  
-4. Debido a la lluvia, se canceló el evento.  
-5. Por lo tanto, se tomaron nuevas medidas.  
-6. Por ejemplo, se aplicó esta regla en varios casos.  
-7. En resumen, la teoría es sólida.
-
----
-
-## 7. Causa vs Consecuencia
-
-**Explicación:** Expresan por qué ocurre algo (causa) o lo que resulta (consecuencia).
-
-**Causa (pasado):**
-- porque - because *(neutro)*  
-- como - since *(neutro)*  
-- ya que - since *(formal)*  
-- debido a que - due to the fact that *(formal)*  
-- por - because of *(formal)*  
-- a causa de - because of *(formal)*  
-- gracias a que - thanks to the fact that *(neutro)*
-
-**Consecuencia (futuro o efecto):**
-- así que - so *(informal/neutro)*  
-- con lo que / conque - so *(informal)*  
-- de modo/manera/forma que - so that *(formal)*  
-- por lo que - so *(formal)*  
-- de ahí que - hence *(muy formal, subjuntivo)*  
-- por consiguiente / por lo tanto / en consecuencia - therefore *(muy formal)*
-
-**Ejemplos:**
-1. Como **era** tarde, no fuimos. (Causa)  
-2. Estaba cansado, así que **se fue**. (Consecuencia)  
-3. Estudió mucho, de ahí que **aprobara**. (Subjuntivo)
-
----
-
-## 8. Consejos: de directo a indirecto
-
-**Explicación:** Formas para dar consejos, del más directo al más sutil.
-
-**Palabras y estructura (formalidad):**
-- **Imperativo:** ¡Hazlo ya! *(informal)*  
-- **Deberías / Tienes que + inf.:** Deberías estudiar. *(neutro)*  
-- **Subjuntivo con recomendación:** Te recomiendo que estudies. *(formal)*  
-- **Infinitivo impersonal:** Es mejor estudiar temprano. *(formal)*  
-- **Condicional personal:** Yo en tu lugar no lo haría. *(neutro)*  
-- **Indicativo interrogativo:** ¿Y si hablamos con ella? *(informal)*  
-- **¿Por qué no + presente?:** ¿Por qué no vas? *(informal)*  
-- **Hay que + inf.:** Hay que descansar bien. *(impersonal, formal)*
-
-**Ejemplos:**
-1. Tienes que hablar con ella.  
-2. Yo en tu lugar no lo haría.  
-3. ¿Por qué no pides ayuda?
-
----
-
-## 9. Estilo Directo e Indirecto (Citas)
-
-**Explicación:** Se pasa del discurso literal (directo) al parafraseado (indirecto), con cambios en tiempo, lugar, persona y conectores.
-
-**Ejemplos de cambios:**
-- "Tengo frío" → dijo que **tenía** frío  
-- "Hoy" → **ese día**  
-- "Aquí" → **allí**  
-- "Fue el mío" → **era el suyo**
-
-**Tabla de tiempos:**
-
-| Directo                           | Indirecto                          | Ejemplo D.              | Ejemplo I.                     |
-| --------------------------------- | ---------------------------------- | ------------------------ | ------------------------------ |
-| Futuro (iré)                     | Pospretérito (iría)               | "Iré mañana"             | Dijo que **iría** mañana       |
-| Ante futuro                      | Ante pospretérito                 | "Habré terminado"        | Dijo que **habría terminado** |
-| Presente                         | Copretérito                       | "Como mucho"             | Dijo que **comía** mucho       |
-| Antepresente / Pretérito        | Ante copretérito                  | "He visto eso"           | Dijo que **había visto** eso   |
-| Presente subj. / Imperativo     | Pretérito subjuntivo              | "Ven aquí" / "Quiero que vengas" | Dijo que **viniera**           |
-| Pretérito subjuntivo            | Ante pretérito subjuntivo         | "Quisiera que vinieras"  | Dijo que **hubiera venido**    |
-| Ante copretérito                | (NO CAMBIO)                        | "Había cantado"          | Dijo que **había cantado**     |
-| Copretérito                     | (NO CAMBIO)                        | "Comía arroz"            | Dijo que **comía** arroz       |
-| Pospretérito                    | (NO CAMBIO)                        | "Habría comido"          | Dijo que **habría comido**     |
-```
-
-¿Quieres que lo exporte como archivo `.md` o lo suba a un documento editable?
+[CONTINÚA EN EL ARCHIVO]

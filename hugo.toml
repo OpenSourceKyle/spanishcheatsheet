@@ -10,15 +10,14 @@ enableRobotsTXT = true
 enableSource = true
 enableGitInfo = true
 
-# PaperMod specific settings
+# Title handling and content settings
 [params]
   env = "production"
-  title = "Spanish Grammar & Vocabulary Cheat Sheet"
   description = "A comprehensive reference guide for Spanish grammar and vocabulary"
   keywords = ["Spanish", "Grammar", "Vocabulary", "Cheat Sheet", "Reference"]
   defaultTheme = "auto"
   ShowReadingTime = true
-  ShowShareButtons = true
+  ShowShareButtons = false
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
@@ -27,9 +26,31 @@ enableGitInfo = true
   UseHugoToc = true
   disableSpecial1stPost = false
   disableScrollToTop = false
-  [params.homeInfoParams]
-    Title = "Spanish Grammar & Vocabulary Cheat Sheet"
-    Content = "Welcome to your comprehensive Spanish language reference guide"
+  titleCaseStyle = "Go"
+  # Header settings
+  ShowToc = true
+  TocOpen = true
+  TocSide = "right"
+
+[params.assets]
+  disableHLJS = true
+  favicon = "favicon.ico"
+  favicon16x16 = "favicon-16x16.png"
+  favicon32x32 = "favicon-32x32.png"
+  apple_touch_icon = "apple-touch-icon.png"
+
+[params.header]
+  enabled = true
+  layout = "sticky"
+
+[frontmatter]
+  date = ["date", "publishDate", "lastmod"]
+  lastmod = [":git", "lastmod", "date", "publishDate"]
+  publishDate = ["publishDate", "date"]
+  expiryDate = ["expiryDate"]
+
+[permalinks]
+  post = "/:filename/"
 
 [params.profileMode]
   enabled = false
@@ -47,13 +68,6 @@ enableGitInfo = true
     name = "Home"
     url = "/"
     weight = -100
-    pre = "home"
-  [[menu.main]]
-    identifier = "search"
-    name = "Search"
-    url = "/search"
-    weight = -90
-    pre = "search"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

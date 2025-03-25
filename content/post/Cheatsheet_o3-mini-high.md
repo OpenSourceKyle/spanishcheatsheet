@@ -1,6 +1,11 @@
-```markdown
-# Hoja de Trucos – Clase Avanzada de Español
-
+---
+title: "Cheatsheet_o3-mini-high"
+date: 2024-03-25
+draft: false
+description: "Una guía concisa de conceptos avanzados del español, incluyendo conectores, verbos y estructuras gramaticales"
+tags: ["Spanish", "Grammar", "Advanced", "Quick Guide"]
+categories: ["Language Learning"]
+weight: 2
 ---
 
 ## 1. Conectores Temporales
@@ -289,4 +294,3 @@
 - Real Academia Espa&ntilde;ola: https://www.rae.es  
 - Centro Virtual Cervantes: https://cvc.cervantes.es  
 - SpanishDict: https://www.spanishdict.com
-```

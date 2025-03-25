@@ -1,3 +1,13 @@
+---
+title: "Cheatsheet_4.5"
+date: 2024-03-25
+draft: false
+description: "Tablas de referencia detalladas para gramática española avanzada, incluyendo conectores, verbos y estructuras"
+tags: ["Spanish", "Grammar", "Advanced", "Reference Tables"]
+categories: ["Language Learning"]
+weight: 4
+---
+
 ## 1. Conectores Temporales
 
 **Explicación:** Enlazan ideas o eventos en el tiempo.

@@ -1,0 +1,14 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+    background-color: var(--theme);
+    border-bottom: 1px solid var(--border);
+}
+
+/* Add padding to the main content to prevent it from being hidden under the fixed header */
+.main {
+    padding-top: var(--header-height);
+} 
