@@ -8,14 +8,15 @@ ShowToc: true
 TocOpen: true
 UseHugoToc: true
 weight: 1
+TocLevels: [1]
 ---
 
-# 1. Conectores Temporales ⏰
+# 💭 1. Conectores Temporales
 
-## Definición 📝
+## 📝 Definición
 Palabras que enlazan oraciones indicando relaciones temporales (simultaneidad, anterioridad o posterioridad). El uso adecuado determina si se usa indicativo (para hechos conocidos o habituales) o subjuntivo (para acciones futuras o no realizadas).
 
-## Términos 📚
+## 📚 Términos
 - **cuando** (Neutro)
   - when
 - **mientras (que)** (Neutro)
@@ -50,14 +51,14 @@ Palabras que enlazan oraciones indicando relaciones temporales (simultaneidad, a
 
 ---
 
-# 2. Verbos de Opinión 💭
+# 💭 2. Verbos de Opinión
 
-## Definición 📝
+## 📝 Definición
 Se usan para expresar creencias o suposiciones. Las oraciones que los acompañan varían en modo:  
 - **Indicativo** para afirmaciones positivas.  
 - **Subjuntivo** en negaciones o dudas.
 
-## Términos y expresiones 🗣️
+## 🗣️ Términos y expresiones
 - **creer que** (Neutro + Indicativo)
   - to believe that
 - **pensar que** (Neutro + Indicativo)
@@ -79,7 +80,7 @@ Se usan para expresar creencias o suposiciones. Las oraciones que los acompañan
 3. Me parece que **está** bien hecho. (Indicativo)
 
 ## Juicio de Valor ⚖️
-### Indicativo ✅
+### ✅ Indicativo
 - **seguro** (Neutro + Indicativo)
   - sure
 - **obvio** (Neutro + Indicativo)
@@ -95,7 +96,7 @@ Se usan para expresar creencias o suposiciones. Las oraciones que los acompañan
 - **comprobado** (Formal + Indicativo)
   - proven
 
-### Subjuntivo ❓
+### ❓ Subjuntivo
 - **normal** (Neutro + Subjuntivo)
   - normal
 - **lógico** (Neutro + Subjuntivo)
@@ -128,12 +129,12 @@ Se usan para expresar creencias o suposiciones. Las oraciones que los acompañan
 
 ---
 
-# 3. Verbos de Juicio de Valor ⭐
+# ⭐ 3. Verbos de Juicio de Valor
 
-## Definición 📝
+## 📝 Definición
 Evalúan situaciones, expresando opiniones o valoraciones (positivas, negativas, de necesidad, etc.). Pueden aparecer en estructuras impersonales o personales.
 
-## Adjetivos y calificativos 📊
+## 📊 Adjetivos y calificativos
 - **seguro** (Neutro + Indicativo)
   - sure
 - **obvio** (Neutro + Indicativo)
@@ -194,16 +195,20 @@ Evalúan situaciones, expresando opiniones o valoraciones (positivas, negativas,
 2. Es importante que **vengas**. (Subjuntivo)  
 3. ¡Qué lástima que **no puedan** venir! (Subjuntivo)
 
+## 💭 Ejemplos adicionales
+No hay nadie **que pueda** ayudarme. (Subjuntivo)  
+Barcelona, **que es** una ciudad costera, atrae a muchos turistas. (Explicativa – Indicativo)
+
 ---
 
-# 4. Oraciones Adjetivas/Relativas 🔍
+# 🔍 4. Oraciones Adjetivas/Relativas
 
-## Definición 📝
+## 📝 Definición
 Describen o especifican un sustantivo. Se distinguen dos usos:  
 - **Especificativas** (sin comas) cuando el referente es indeterminado o se busca identificarlo.  
 - **Explicativas** (con comas) para añadir información extra sobre un referente ya conocido.
 
-## Términos clave 🔑
+## 🔑 Términos clave
 - **que** (Neutro + Uso general)
   - that, which, who
 - **donde** (Neutro)
@@ -221,7 +226,7 @@ Describen o especifican un sustantivo. Se distinguen dos usos:
 - **cuyo/a/os/as** (Formal/Literario)
   - whose
 
-## Uso del modo verbal 📖
+## 📖 Uso del modo verbal
 - **Indicativo:** Referente concreto o conocido. Ej.: *Conozco al profesor que enseña francés.* (Cosa específica)  
 - **Subjuntivo:** Referente hipotético o no confirmado. Ej.: *Busco un libro que tenga dibujos.* (Cosa desconocida o en general)
 
@@ -233,40 +238,40 @@ Describen o especifican un sustantivo. Se distinguen dos usos:
 - Con comas: *que*, *lo/el/la/los/las que*, *lo/el/la/los/las cual(es)*, *quien*, *cual*, *cuyo*  
 - Ejemplo: *El libro, que es muy interesante, está en la mesa.* (The book, which is very interesting, is on the table)
 
-## Ejemplos adicionales  
+## 💡 Ejemplos
 1. No hay nadie **que pueda** ayudarme. (Subjuntivo)  
 2. Barcelona, **que es** una ciudad costera, atrae a muchos turistas. (Explicativa – Indicativo)
 
 ---
 
-# 5. Voz Pasiva 🔄
+# 🔄 5. Voz Pasiva
 
-## Definición 📝
+## 📝 Definición
 Se emplea para resaltar la acción o el objeto en vez del sujeto. Existen dos formas principales:
 
-## Pasiva con "ser" 📋
+## 📋 Pasiva con "ser"
 - **Estructura:** Sujeto paciente + ser (tiempo adecuado) + participio pasado (+ por + agente).  
 - Ej.: *El libro **fue escrito** por ella.*  
 - Uso formal y frecuente en textos escritos.
 
-## Pasiva refleja 🔁
+## 🔁 Pasiva refleja
 - **Estructura:** Se + verbo en 3ª persona + sujeto paciente (posterior).  
 - Ej.: *Se vendieron todas las entradas.*  
 - Común en el lenguaje cotidiano y anuncios.
 
-## Nota  
+## 📝 Nota
 - Con *estar + participio* se indica un estado resultante, no la acción en sí.
 
 ---
 
-# 6. Marcadores Textuales 📋
+# 📋 6. Marcadores Textuales
 
-## Definición 📝
+## 📝 Definición
 Palabras o expresiones que estructuran el discurso conectando ideas. Su uso adecuado da cohesión y fluidez al texto.
 
 ## Por función
 
-### Nuevo tema 🆕
+### 🆕 Nuevo tema
 - **en cuanto** (Neutro)
   - as for
 - **respecto a** (Neutro)
@@ -274,7 +279,7 @@ Palabras o expresiones que estructuran el discurso conectando ideas. Su uso adec
 - **a propósito** (Neutro)
   - on purpose
 
-### Adición ➕
+### ➕ Adición
 - **además** (Neutro)
   - moreover, furthermore
 - **también** (Neutro)
@@ -298,7 +303,7 @@ Palabras o expresiones que estructuran el discurso conectando ideas. Su uso adec
 - **ni siquiera** (Negativo)
   - not even (negative)
 
-### Contraste/Oposición ⚔️
+### ⚔️ Contraste/Oposición
 - **pero** (Neutro)
   - but
 - **sin embargo** (Neutro)
@@ -320,7 +325,7 @@ Palabras o expresiones que estructuran el discurso conectando ideas. Su uso adec
 - **aun así** (Neutro)
   - even so
 
-### Secuencia/Orden 📅
+### 📅 Secuencia/Orden
 - **primero / en primer lugar** (Neutro)
   - first / firstly
 - **luego / después** (Neutro)
@@ -336,7 +341,7 @@ Palabras o expresiones que estructuran el discurso conectando ideas. Su uso adec
 - **más adelante** (Neutro)
   - later on
 
-### Ejemplificación/Explicación 💡
+### 💡 Ejemplificación/Explicación
 - **por ejemplo** (Neutro)
   - for example
 - **es decir** (Neutro)
@@ -350,7 +355,7 @@ Palabras o expresiones que estructuran el discurso conectando ideas. Su uso adec
 - **pongamos por caso** (Formal)
   - let's take the case
 
-### Énfasis/Reformulación 🎯
+### 🎯 Énfasis/Reformulación
 - **de hecho** (Neutro)
   - in fact
 - **en realidad** (Neutro)
@@ -368,7 +373,7 @@ Palabras o expresiones que estructuran el discurso conectando ideas. Su uso adec
 - **más bien** (Neutro)
   - rather
 
-### Conclusión/Resumen 🎬
+### 🎬 Conclusión/Resumen
 - **en resumen** (Neutro)
   - in summary
 - **en pocas palabras** (Neutro)
@@ -388,17 +393,25 @@ Palabras o expresiones que estructuran el discurso conectando ideas. Su uso adec
 - **para finalizar** (Neutro)
   - to conclude
 
-## Ejemplo de uso  
+## 💡 Ejemplo de uso
 *En primer lugar*, se expone la idea. *Además*, se aportan evidencias. *Sin embargo*, hay discrepancias. *En conclusión*, se demuestra la tesis.
+
+## 💡 Ejemplos
+1. **Directo:** Juan: "Estoy muy feliz."  
+   **Indirecto:** Juan dijo que **estaba** muy feliz.
+2. **Directo:** María: "¿Podrás ayudarme mañana?"  
+   **Indirecto:** María preguntó **si podría** ayudarla **al día siguiente**.
+3. **Directo:** El profesor: "Estudien este capítulo."  
+   **Indirecto:** El profesor pidió **que estudiaran** ese capítulo.
 
 ---
 
-# 7. Causa vs Consecuencia ⚡
+# ⚡ 7. Causa vs Consecuencia
 
-## Definición 📝
+## 📝 Definición
 Conectores que indican la razón (causa) y el resultado (consecuencia) de una acción o situación.
 
-## Causa ⚓
+## ⚓ Causa
 - **porque** (Neutro)
   - because
 - **como** (Neutro + Usado al inicio)
@@ -416,7 +429,7 @@ Conectores que indican la razón (causa) y el resultado (consecuencia) de una ac
 - **gracias a que** (Neutro)
   - thanks to the fact that
 
-## Consecuencia 🎲
+## 🎲 Consecuencia
 ### Después de una coma
 - **así que** (Neutro)
   - so (remove "que" with pronouns)
@@ -441,19 +454,19 @@ Conectores que indican la razón (causa) y el resultado (consecuencia) de una ac
 - **por lo tanto** (Formal)
   - therefore
 
-## Ejemplos  
+## 💡 Ejemplos
 1. Como era tarde, no fuimos. (Causa)  
 2. Estaba cansado, así que se fue. (Consecuencia)  
 3. Estudió mucho, de ahí que **aprobara**. (Subjuntivo)
 
 ---
 
-# 8. Consejos: de Directo a Indirecto 💬
+# 💬 8. Consejos: de Directo a Indirecto
 
-## Definición 📝
+## 📝 Definición
 Formas de dar consejos que pueden expresarse de forma directa (mandatos) o indirecta (sugerencias suavizadas).
 
-## Formas directas ➡️
+## ➡️ Formas directas
 - **Imperativo** (Directo + Mandato)
   - Ejemplo: *¡Hazlo ya!*
 - **Deber + infinitivo** (Directo + Obligación)
@@ -461,7 +474,7 @@ Formas de dar consejos que pueden expresarse de forma directa (mandatos) o indir
 - **Tener que + infinitivo** (Directo + Obligación)
   - Ejemplo: *Tienes que estudiar.*
 
-## Formas indirectas ↪️
+## ↪️ Formas indirectas
 - **Deberías/Podrías + infinitivo** (Suave + Sugerencia)
   - Ejemplo: *Deberías descansar más.*
 - **Verbo de consejo + que + subjuntivo** (Neutro + Sugerencia)
@@ -473,7 +486,7 @@ Formas de dar consejos que pueden expresarse de forma directa (mandatos) o indir
 - **Condicional** (Suave + Sugerencia)
   - Ejemplo: *Yo que tú, iría al médico.*
 
-## Ejemplos de transformación
+## 💡 Ejemplos de transformación
 1. **Directo:** *No comas tanta comida chatarra.*  
    **Indirecto:** *Deberías moderar la comida chatarra.*
 2. **Directo:** *Habla más despacio.*  
@@ -485,12 +498,12 @@ Formas de dar consejos que pueden expresarse de forma directa (mandatos) o indir
 
 ---
 
-# 9. Estilos: Directo e Indirecto (Citas) 💫
+# 💫 9. Estilos: Directo e Indirecto (Citas)
 
-## Definición 📝
+## 📝 Definición
 El estilo directo reproduce las palabras exactas (usando comillas o guiones), mientras que el indirecto integra el mensaje adaptando pronombres, adverbios y tiempos verbales.
 
-## Transformación de tiempos verbales ⏳
+## ⏳ Transformación de tiempos verbales
 
 | Directo (tiempo original) | Indirecto (transformado) | Ejemplo Directo | Ejemplo Indirecto |
 |--------------------------|-------------------------|-----------------|-------------------|
@@ -503,9 +516,9 @@ El estilo directo reproduce las palabras exactas (usando comillas o guiones), mi
 | Imperativo | Pretérito imperfecto de subjuntivo | "Ven aquí" | Pidió que **fueras** allí |
 | Presente de subjuntivo / Imperativo | Pretérito imperfecto de subjuntivo | "Quiero que **vengas**" | Dijo que quería **que vinieras** |
 
-## Notas adicionales 📌
+## 📌 Notas adicionales
 
-### Cambios de expresiones temporales y espaciales 🗺️
+### 🗺️ Cambios de expresiones temporales y espaciales
 
 | Estilo Directo | Estilo Indirecto |
 |----------------|------------------|
@@ -521,14 +534,14 @@ El estilo directo reproduce las palabras exactas (usando comillas o guiones), mi
 | **el próximo mes** | el mes siguiente |
 | **el próximo año** | el año siguiente |
 
-### Cambios en preguntas 💭
+### 💭 Cambios en preguntas
 
 | Tipo de pregunta | Introducción | Ejemplo Directo | Ejemplo Indirecto |
 |------------------|--------------|-----------------|-------------------|
 | Pregunta indirecta | **que** | "¿Dónde vives?" | Preguntó **que** dónde vivía |
 | Pregunta de sí/no | **si** | "¿Vendrás mañana?" | Preguntó **si** vendría al día siguiente |
 
-## Ejemplos completos 📝
+## 📝 Ejemplos completos
 1. **Directo:** Juan: "Estoy muy feliz."  
    **Indirecto:** Juan dijo que **estaba** muy feliz.
 2. **Directo:** María: "¿Podrás ayudarme mañana?"  
