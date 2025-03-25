@@ -1,5 +1,5 @@
 ---
-title: "Cheatsheet_o3-mini-high"
+title: "Cheatsheet vGPT-o3-mini-high"
 date: 2024-03-25
 draft: false
 description: "Una guía concisa de conceptos avanzados del español, incluyendo conectores, verbos y estructuras gramaticales"
@@ -8,11 +8,13 @@ categories: ["Language Learning"]
 weight: 2
 ---
 
-## 1. Conectores Temporales
+# Guía Rápida de Gramática Española 📚
 
-**Explicación:** Palabras que enlazan ideas o eventos en el tiempo. [Fuente: https://www.rae.es]
+## 1. Conectores Temporales 🕒
 
-**Palabras y traducciones:**
+**Explicación:** 📖 Palabras que enlazan ideas o eventos en el tiempo.
+
+**Palabras y traducciones:** 📝
 - en cuanto - as soon as (Neutro)  
 - nada más - as soon as / just after (Informal)  
 - cada vez - every time (Neutro)  
@@ -25,22 +27,22 @@ weight: 2
 - cuando - when (Neutro)  
 - mientras - while (Neutro)
 
-**Estructura:**
-- **Indicativo:** Acciones habituales o conocidas.  
-- **Subjuntivo:** Acciones futuras o no realizadas.
+**Estructura:** ⚡
+- **Indicativo:** Acciones habituales ✅  
+- **Subjuntivo:** Acciones futuras ⏳
 
-**Ejemplos:**
+**Ejemplos:** 💡
 1. Te llamo en cuanto **llegue**. (Subjuntivo)  
 2. Nada más **terminar**, salió. (Indicativo)  
 3. Lo veo cada vez que **viene**. (Indicativo)
 
 ---
 
-## 2. Verbos de Opinión
+## 2. Verbos de Opinión 💭
 
-**Explicación:** Expresan creencias o pensamientos. [Fuente: https://www.spanishdict.com]
+**Explicación:** 📖 Expresan creencias o pensamientos.
 
-**Palabras y traducciones:**
+**Palabras y traducciones:** 📝
 - creer - to believe (Neutro)  
 - pensar - to think (Neutro)  
 - opinar - to give an opinion (Neutro)  
@@ -48,20 +50,20 @@ weight: 2
 - me parece que - it seems to me that (Neutro)  
 - no creo que - I don't think that (Neutro)
 
-**Estructura:**
-- **Indicativo:** Afirmación positiva (creo que, pienso que...)  
-- **Subjuntivo:** Negación o duda (no creo que...)
+**Estructura:** ⚡
+- **Indicativo:** Afirmación positiva (creo que, pienso que...) ✅  
+- **Subjuntivo:** Negación o duda (no creo que...) ❌
 
-**Ejemplos:**
+**Ejemplos:** 💡
 1. Creo que es una buena idea. (Indicativo)  
 2. No pienso que tenga razón. (Subjuntivo)  
 3. Me parece que está bien hecho. (Indicativo)
 
 ---
 
-## 3. Verbos de Juicio de Valor
+## 3. Verbos de Juicio de Valor ⭐
 
-**Explicación:** Evalúan situaciones como buenas, malas, necesarias, etc. [Fuente: https://cvc.cervantes.es]
+**Explicación:** 📖 Evalúan situaciones como buenas, malas, necesarias, etc.
 
 **Palabras y traducciones:**
 
@@ -101,9 +103,9 @@ weight: 2
 
 ---
 
-## 4. Oraciones Adjetivas/Relativas
+## 4. Oraciones Adjetivas/Relativas 🔍
 
-**Explicación:** Describen o especifican un sustantivo. Uso en registros formal e informal. [Fuente: https://www.rae.es]
+**Explicación:** 📖 Describen o especifican un sustantivo. Uso en registros formal e informal.
 
 **Estructura:**
 - **Indicativo:** Se usa cuando el referente es conocido o específico.  
@@ -119,9 +121,9 @@ weight: 2
 
 ---
 
-## 5. Voz Pasiva
+## 5. Voz Pasiva 🔄
 
-**Explicación:** Resalta la acción más que el sujeto, común en escritura formal. [Fuente: https://www.spanishdict.com]
+**Explicación:** 📖 Resalta la acción más que el sujeto, común en escritura formal.
 
 **Estructura:**
 - **Pasiva con "ser":** Ej. "El libro fue escrito por ella."  
@@ -137,9 +139,9 @@ weight: 2
 
 ---
 
-## 6. Marcadores Textuales
+## 6. Marcadores Textuales 📋
 
-**Explicación:** Organizan y conectan ideas en un texto. [Fuente: https://cvc.cervantes.es]
+**Explicación:** 📖 Organizan y conectan ideas en un texto.
 
 **Tipos y ejemplos:**
 
@@ -202,9 +204,9 @@ weight: 2
 
 ---
 
-## 7. Causa vs Consecuencia
+## 7. Causa vs Consecuencia ⚡
 
-**Explicación:** Expresan por qué ocurre algo (causa) y lo que resulta (consecuencia). [Fuente: https://www.rae.es]
+**Explicación:** 📖 Expresan por qué ocurre algo (causa) y lo que resulta (consecuencia).
 
 **Causa (pasado):**
 - porque - because (Neutro)  
@@ -237,9 +239,9 @@ weight: 2
 
 ---
 
-## 8. Consejos: de Directo a Indirecto
+## 8. Consejos: de Directo a Indirecto 💬
 
-**Explicación:** Formas comunes para dar consejos, desde lo directo hasta lo indirecto. [Fuente: https://www.spanishdict.com]
+**Explicación:** 📖 Formas comunes para dar consejos, desde lo directo hasta lo indirecto.
 
 **Palabras y traducciones:**
 - imperativo - imperative (Neutro)  
@@ -267,9 +269,9 @@ weight: 2
 
 ---
 
-## 9. Estilos: Directo e Indirecto (Citas)
+## 9. Estilos: Directo e Indirecto (Citas) 💫
 
-**Explicación:** Se utiliza el estilo directo para reproducir las palabras exactas y el indirecto para parafrasear, realizando cambios en nexo, adverbios y persona. [Fuente: https://www.rae.es]
+**Explicación:** 📖 Se utiliza el estilo directo para reproducir las palabras exactas y el indirecto para parafrasear, realizando cambios en nexo, adverbios y persona.
 
 **Tabla de cambios de tiempo verbal:**
 
@@ -286,11 +288,3 @@ weight: 2
 | Pospretérito                                 | (NO CAMBIO)                      | "habría comido"                   | "habría comido" *(NO CAMBIO)*                |
 
 *Nota: Para "Ante copretérito", "Copretérito" y "Pospretérito" no se realizan cambios.*
-
----
-
-## Fuentes
-
-- Real Academia Espa&ntilde;ola: https://www.rae.es  
-- Centro Virtual Cervantes: https://cvc.cervantes.es  
-- SpanishDict: https://www.spanishdict.com

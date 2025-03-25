@@ -1,69 +1,68 @@
 ---
-title: "Cheatsheet_4o"
+title: "Cheatsheet vGPT-4o"
 date: 2024-03-25
 draft: false
-description: "Una guía esencial de gramática española avanzada, cubriendo los conceptos fundamentales con ejemplos prácticos"
-tags: ["Spanish", "Grammar", "Advanced", "Essential"]
+description: "Una guía detallada de los conceptos avanzados de la gramática española"
+tags: ["Spanish", "Grammar", "Advanced", "Guide"]
 categories: ["Language Learning"]
 weight: 3
 ---
 
-## 1. Conectores Temporales
+# Gramática Avanzada del Español 📚
 
-**Explicación:** Palabras que enlazan ideas o eventos en el tiempo.
+## 1. Conectores Temporales 🕒
 
-**Palabras y traducciones (formalidad):**
-- en cuanto - as soon as *(neutro)*  
-- nada más - as soon as / just after *(informal)*  
-- cada vez - every time *(neutro)*  
-- antes - before *(neutro)*  
-- tan pronto como - as soon as *(formal)*  
-- siempre - always *(neutro)*  
-- una vez - once *(neutro)*  
-- todas las veces - every time *(formal)*  
-- al - upon *(formal)*  
-- cuando - when *(neutro)*  
-- mientras - while *(neutro)*
+### Definición y Uso 📖
+Los conectores temporales son palabras o expresiones que relacionan eventos en el tiempo.
 
-**Estructura:**
-- **Indicativo:** acciones habituales o conocidas.  
-- **Subjuntivo:** acciones futuras o no realizadas.
+### Tipos Principales ⚡
+1. **Simultaneidad** ⏰
+   - mientras
+   - al mismo tiempo
+   - cuando
 
-**Ejemplos:**
-1. Te llamo en cuanto **llegue**. (Subjuntivo)  
-2. Nada más **terminar**, salió. (Indicativo)  
-3. Lo veo cada vez que **viene**. (Indicativo)
+2. **Anterioridad** ⬅️
+   - antes de que
+   - antes de
+   - previamente
 
----
+3. **Posterioridad** ➡️
+   - después de que
+   - luego de
+   - posteriormente
 
-## 2. Verbos de Opinión
+### Ejemplos de Uso 💡
+- Mientras **estudiaba**, escuchaba música
+- Antes de que **llegues**, habré terminado
+- Después de **comer**, daremos un paseo
 
-**Explicación:** Expresan creencias o pensamientos.
+## 2. Verbos de Opinión 💭
 
-**Palabras y traducciones (formalidad):**
-- creer - to believe *(neutro)*  
-- pensar - to think *(neutro)*  
-- opinar - to give an opinion *(formal)*  
-- asignar - to assign *(formal, técnico)*  
-- me parece que - it seems to me that *(informal/neutro)*  
-- no creo que - I don't think that *(neutro)*
+### Definición y Uso 📖
+Verbos que expresan juicios, creencias o pensamientos personales.
 
-**Estructura:**
-- **Indicativo:** afirmación positiva.  
-- **Subjuntivo:** negación o duda.
+### Estructuras Principales ⚡
+1. **Afirmación** ✅
+   - Creo que + indicativo
+   - Pienso que + indicativo
+   - Opino que + indicativo
 
-**Ejemplos:**
-1. Creo que **es** una buena idea. (Indicativo)  
-2. No pienso que **tenga** razón. (Subjuntivo)  
-3. Me parece que **está** bien hecho. (Indicativo)
+2. **Negación** ❌
+   - No creo que + subjuntivo
+   - No pienso que + subjuntivo
+   - No opino que + subjuntivo
 
----
+### Ejemplos Prácticos 💡
+- Creo que **tienes** razón
+- No pienso que **sea** correcto
+- Me parece que **está** bien así
 
-## 3. Verbos de Juicio de Valor
+## 3. Verbos de Juicio de Valor ⭐
 
-**Explicación:** Evalúan situaciones como buenas, malas, necesarias, etc.
+### Definición y Uso 📖
+Evalúan situaciones como buenas, malas, necesarias, etc.
 
-**Palabras y traducciones (formalidad):**
+### Palabras y Traducciones 📝
 
 *Indicativo (certeza):*
 - seguro - certain *(neutro)*  
@@ -95,13 +94,12 @@ weight: 3
 2. Es importante que **vengas**. (Subjuntivo)  
 3. Dijeron que **era** verdad. (Indicativo)
 
----
+## 4. Oraciones Adjetivas/Relativas 🔍
 
-## 4. Oraciones Adjetivas/Relativas
+### Definición y Uso 📖
+Describen o especifican un sustantivo.
 
-**Explicación:** Describen o especifican un sustantivo.
-
-**Palabras y estructuras (formalidad):**
+### Estructura Gramatical ⚡
 - que - that *(informal/neutro)*  
 - el/la que, los/las que - the one(s) that *(formal)*  
 - el cual / la cual / los cuales / las cuales - which *(muy formal)*  
@@ -119,13 +117,12 @@ weight: 3
 2. Conozco al profesor que **enseña** francés. (Indicativo)  
 3. La mujer, la cual **llegó** tarde, se disculpó. (Explicativa)
 
----
+## 5. Voz Pasiva 🔄
 
-## 5. Voz Pasiva
+### Definición y Uso 📖
+Resalta la acción más que el sujeto.
 
-**Explicación:** Resalta la acción más que el sujeto.
-
-**Estructura:**
+### Estructura Gramatical ⚡
 - **Pasiva con "ser":** El libro **fue escrito** por ella.  
 - **Pasiva con "se":** Se **vendieron** todas las entradas.
 
@@ -138,11 +135,10 @@ weight: 3
 1. El edificio **fue construido** en 1920.  
 2. Se **comieron** todos los postres.
 
----
+## 6. Marcadores Textuales 📋
 
-## 6. Marcadores Textuales
+### Definición y Uso 📖
+Organizan y conectan ideas en un texto.
 
-**Explicación:** Organizan y conectan ideas. Se usan comúnmente en textos académicos.
-
-**Ejemplos de marcadores (formalidad):**
+### Tipos y Ejemplos 📝
 [CONTINÚA EN EL ARCHIVO]

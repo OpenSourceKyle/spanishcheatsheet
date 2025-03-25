@@ -1,184 +1,138 @@
 ---
-title: "Cheatsheet_4.5"
+title: "Cheatsheet vGPT-4.5"
 date: 2024-03-25
 draft: false
-description: "Tablas de referencia detalladas para gramática española avanzada, incluyendo conectores, verbos y estructuras"
-tags: ["Spanish", "Grammar", "Advanced", "Reference Tables"]
+description: "Guía práctica de gramática española con ejercicios y ejemplos"
+tags: ["Spanish", "Grammar", "Practice", "Exercises"]
 categories: ["Language Learning"]
 weight: 4
 ---
 
-## 1. Conectores Temporales
+# Ejercicios Prácticos de Español 📚
 
-**Explicación:** Enlazan ideas o eventos en el tiempo.
+## 1. Conectores Temporales 🕒
 
-| Término          | Traducción          | Formalidad  |
-|------------------|---------------------|-------------|
-| en cuanto        | as soon as          | neutro      |
-| nada más         | just after          | informal    |
-| cada vez         | every time          | neutro      |
-| antes            | before              | neutro      |
-| tan pronto como  | as soon as          | formal      |
-| siempre          | always              | neutro      |
-| una vez          | once                | neutro      |
-| todas las veces  | every time          | neutro      |
-| al               | upon                | formal      |
-| cuando           | when                | neutro      |
-| mientras         | while               | neutro      |
+### Ejercicio de Identificación ✍️
+Subraya los conectores temporales en las siguientes oraciones:
+1. Mientras estudiaba, sonó el teléfono
+2. Antes de salir, cierra la puerta
+3. Después de comer, daremos un paseo
 
-**Estructura:**  
-- **Indicativo:** acciones habituales/conocidas.  
-- **Subjuntivo:** acciones futuras/no realizadas.
+### Ejercicio de Completar ⭐
+Completa las oraciones con el conector temporal adecuado:
+1. _______ llegues a casa, llámame
+2. _______ termine el examen, podrás salir
+3. _______ estés listo, empezamos
 
-**Ejemplos:**
-- Te llamo en cuanto llegue. *(Subjuntivo)*  
-- Nada más terminar, salió. *(Indicativo)*  
-- Lo veo cada vez que viene. *(Indicativo)*
+## 2. Verbos de Opinión 💭
 
----
+### Ejercicio de Transformación 🔄
+Cambia las siguientes oraciones de afirmativas a negativas:
+1. Creo que viene hoy → No creo que _______
+2. Pienso que es fácil → No pienso que _______
+3. Opino que está bien → No opino que _______
 
-## 2. Verbos de Opinión
+### Práctica de Uso ⚡
+Expresa tu opinión sobre los siguientes temas:
+1. El clima hoy: _______
+2. La comida española: _______
+3. El aprendizaje de idiomas: _______
 
-**Explicación:** Expresan creencias o pensamientos.
+## 3. Verbos de Juicio de Valor ⭐
 
-| Término       | Traducción            | Formalidad |
-|---------------|-----------------------|------------|
-| creer         | to believe            | neutro     |
-| pensar        | to think              | neutro     |
-| opinar        | to give an opinion    | formal     |
-| asignar       | to assign             | formal     |
-| me parece que | it seems to me that   | neutro     |
-| no creo que   | I don't think that    | neutro     |
+### Ejercicio de Selección ✅
+Elige el modo verbal correcto:
+1. Es importante que (estudiar) _______
+2. Es necesario que (hacer) _______
+3. Es bueno que (practicar) _______
 
-**Estructura:**  
-- **Indicativo:** afirmación positiva.  
-- **Subjuntivo:** negación/duda.
+### Práctica de Escritura 📝
+Escribe oraciones usando estos verbos:
+1. Es fundamental que...
+2. Es esencial que...
+3. Es recomendable que...
 
-**Ejemplos:**
-- Creo que es buena idea. *(Indicativo)*  
-- No pienso que tenga razón. *(Subjuntivo)*  
-- Me parece que está bien hecho. *(Indicativo)*
+## 4. Oraciones Adjetivas/Relativas 🔍
 
----
+### Ejercicio de Práctica ✍️
+Completa las oraciones con el pronombre relativo adecuado:
+1. La persona _______ conocí ayer es profesora
+2. El libro _______ compraste es interesante
+3. La ciudad en _______ vivo es hermosa
 
-## 3. Verbos de Juicio de Valor
+### Ejercicio de Transformación 🔄
+Convierte las oraciones simples en relativas:
+1. Me gusta esta casa. La casa tiene jardín.
+2. Conozco a ese profesor. El profesor enseña español.
+3. Vivo en esta ciudad. Esta ciudad es muy tranquila.
 
-**Explicación:** Evalúan situaciones subjetivamente.
+## 5. Voz Pasiva 🔄
 
-| Indicativo      | Traducción       | Formalidad |
-|-----------------|------------------|------------|
-| seguro          | certain          | neutro     |
-| obvio           | obvious          | neutro     |
-| cierto          | true             | neutro     |
-| indudable       | unquestionable   | formal     |
-| innegable       | undeniable       | formal     |
-| claro           | clear            | neutro     |
-| comprobado      | proven           | formal     |
+### Ejercicio de Conversión ⚡
+Transforma estas oraciones a voz pasiva:
+1. Juan escribió la carta → _______
+2. María preparó la cena → _______
+3. Los estudiantes terminaron el proyecto → _______
 
-| Subjuntivo      | Traducción       | Formalidad |
-|-----------------|------------------|------------|
-| normal          | normal           | neutro     |
-| lógico          | logical          | neutro     |
-| horrible        | horrible         | neutro     |
-| increíble       | incredible       | neutro     |
-| bien            | well             | neutro     |
-| necesario       | necessary        | neutro     |
-| importante      | important        | neutro     |
-| triste          | sad              | neutro     |
-| bueno           | good             | neutro     |
-| mal / malo      | bad              | neutro     |
+### Práctica de Uso 📝
+Escribe oraciones en voz pasiva sobre:
+1. La construcción de un edificio
+2. La preparación de una comida
+3. La organización de un evento
 
-**Estructura:**  
-- **Indicativo:** certeza.  
-- **Subjuntivo:** valoración subjetiva.
+## 6. Marcadores Textuales 📋
 
-**Ejemplos:**
-- Es obvio que tiene razón. *(Indicativo)*  
-- Es importante que vengas. *(Subjuntivo)*
+### Ejercicio de Organización ✍️
+Ordena un párrafo usando estos marcadores:
+- En primer lugar
+- Además
+- Por último
+- Sin embargo
 
----
+### Práctica de Escritura 📝
+Escribe un texto corto usando marcadores de:
+1. Orden temporal
+2. Contraste
+3. Conclusión
 
-## 4. Oraciones Adjetivas/Relativas
+## 7. Causa y Consecuencia ⚡
 
-**Explicación:** Describen o especifican sustantivos.
+### Ejercicio de Conexión 🔗
+Une las oraciones usando conectores causales:
+1. Llueve mucho / No salimos
+2. Estudió bastante / Aprobó el examen
+3. Hace frío / Llevo abrigo
 
-**Formalidad:**  
-- "que": informal/neutro  
-- "el/la/los/las que, cual(es), cuyo": formal
+### Práctica de Uso 📝
+Escribe oraciones expresando:
+1. Una causa con "porque"
+2. Una consecuencia con "por lo tanto"
+3. Una causa con "ya que"
 
-**Estructura:**  
-- **Indicativo:** referente conocido  
-- **Subjuntivo:** referente desconocido/hipotético
+## 8. Consejos 💬
 
-**Ejemplos:**
-- Busco un libro que tenga dibujos. *(Subjuntivo)*  
-- Conozco al profesor que enseña francés. *(Indicativo)*  
-- La mujer, la cual llegó tarde, se disculpó. *(Explicativa, formal)*
+### Ejercicio de Transformación 🔄
+Convierte estos consejos directos en indirectos:
+1. "¡Estudia más!" →
+2. "¡Come sano!" →
+3. "¡Haz ejercicio!" →
 
----
+### Práctica de Escritura 📝
+Da consejos indirectos sobre:
+1. Aprender un idioma
+2. Mantener una vida saludable
+3. Mejorar en el trabajo
 
-## 5. Voz Pasiva
+## 9. Estilo Directo e Indirecto 💫
 
-**Explicación:** Resalta la acción.
+### Ejercicio de Conversión ⚡
+Transforma al estilo indirecto:
+1. "Vendré mañana" →
+2. "Estoy cansado" →
+3. "¡Haz los deberes!" →
 
-**Estructura:**  
-- Pasiva con "ser": El libro fue escrito.  
-- Pasiva con "se": Se vendieron todas las entradas.
-
-**Formalidad:** Más frecuente en textos formales.
-
-**Ejemplos:**
-- El edificio fue construido en 1920.
-
----
-
-## 6. Marcadores Textuales
-
-**Explicación:** Conectan y organizan ideas.
-
-*(Consulta lista extensa de términos según tipo y formalidad en notas anteriores.)*
-
----
-
-## 7. Causa vs Consecuencia
-
-**Explicación:** Por qué sucede algo (causa), lo que ocurre después (consecuencia).
-
-| Causa         | Traducción           | Formalidad |
-|---------------|----------------------|------------|
-| porque        | because              | neutro     |
-| como          | since                | neutro     |
-| ya que        | since                | formal     |
-| puesto que    | since                | formal     |
-| debido a que  | due to the fact that | formal     |
-
-| Consecuencia      | Traducción | Formalidad |
-|-------------------|------------|------------|
-| así que           | so         | neutro     |
-| por consiguiente  | therefore  | formal     |
-
-**Estructura:**  
-- "de ahí que" requiere subjuntivo.
-
-**Ejemplos:**
-- Como era tarde, no fuimos. *(Causa)*  
-- Estaba cansado, así que se fue. *(Consecuencia)*
-
----
-
-## 8. Consejos: Directo e Indirecto
-
-**Explicación:** Cómo aconsejar.
-
-*(Consulta estructura anterior.)*
-
----
-
-## 9. Estilos Directo e Indirecto (Citas)
-
-**Explicación:** Cambios al citar directa o indirectamente.
-
-*(Consulta tabla anterior para cambios de tiempos verbales.)*
-
-**Ejemplo:**  
-- "Iré mañana" → Dijo que iría al día siguiente.
+### Práctica de Uso 📝
+Reporta lo que dijeron estas personas:
+1. Tu profesor sobre los exámenes
+2. Tu amigo sobre sus planes
+3. Tu familia sobre las vacaciones
