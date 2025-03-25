@@ -24,7 +24,7 @@ enableGitInfo = true
   ShowWordCount = true
   ShowRssButtonInSectionTermList = true
   UseHugoToc = true
-  disableSpecial1stPost = false
+  disableSpecial1stPost = true
   disableScrollToTop = false
   titleCaseStyle = "Go"
   # Header settings
@@ -61,13 +61,6 @@ enableGitInfo = true
   [params.layout.list]
     [params.layout.list.simple]
       enable = true
-
-[menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = -100
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

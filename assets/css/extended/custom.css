@@ -11,4 +11,76 @@
 /* Add padding to the main content to prevent it from being hidden under the fixed header */
 .main {
     padding-top: var(--header-height);
+}
+
+/* Make all posts look consistent */
+.post-entry {
+    margin: var(--gap) 0;
+    padding: var(--gap);
+    background: var(--entry);
+    border-radius: var(--radius);
+    transition: transform 0.1s;
+    border: 1px solid var(--border);
+}
+
+.post-entry:hover {
+    transform: scale(1.01);
+}
+
+.post-entry .entry-header h2 {
+    font-size: 24px;
+    line-height: 1.3;
+    margin: 8px 0;
+}
+
+.first-entry {
+    position: relative;
+    margin: var(--gap) 0;
+    padding: var(--gap);
+    background: var(--entry);
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+    transition: transform 0.1s;
+}
+
+.first-entry:hover {
+    transform: scale(1.01);
+}
+
+/* Mobile-specific styles */
+@media screen and (max-width: 768px) {
+    .nav {
+        padding: 5px 0;
+        line-height: normal;
+    }
+
+    .logo a {
+        font-size: 18px;
+        line-height: 1.2;
+    }
+
+    .logo {
+        margin: 5px var(--gap);
+    }
+
+    #menu {
+        margin: 5px var(--gap);
+    }
+
+    .main {
+        padding-top: 60px;
+    }
+
+    /* Make all entries consistent on mobile */
+    .post-entry, .first-entry {
+        margin: var(--gap) 0;
+        padding: var(--gap);
+    }
+
+    .post-entry .entry-header h2,
+    .first-entry .entry-header h1 {
+        font-size: 20px;
+        line-height: 1.3;
+        margin: 8px 0;
+    }
 } 
