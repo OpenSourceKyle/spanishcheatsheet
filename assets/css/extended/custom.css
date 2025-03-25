@@ -1,15 +1,20 @@
 .header {
     position: fixed !important;
     top: 0;
+    left: 0;
+    right: 0;
     width: 100%;
     background-color: var(--theme);
     z-index: 999 !important;
-    padding: 10px 0;
+    padding: 8px 0;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
 }
 
 /* Add padding to the main content to prevent it from being hidden under the fixed header */
 .main {
-    padding-top: 100px !important;
+    padding-top: 80px !important; /* Reduced padding */
 }
 
 /* Make all posts look consistent */
@@ -52,78 +57,82 @@
 
 /* Theme toggle button positioning */
 .theme-toggle {
-    position: absolute !important;
-    right: 60px !important;  /* Increased right margin */
-    top: 50% !important;
-    transform: translateY(-50%) !important;
-    margin: 0 !important;
-    z-index: 1000 !important;
+    position: static !important;
+    margin-left: auto !important;
+    margin-right: 20px !important;
+    transform: none !important;
+    order: 2 !important;
 }
 
 .logo {
-    margin-right: 40px !important;  /* Add space for theme toggle */
+    display: flex !important;
+    align-items: center !important;
 }
 
-/* Mobile-specific styles */
+.nav {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    width: 100% !important;
+    padding: 0 20px !important;
+}
+
+.menu {
+    order: 3 !important;
+}
+
+/* Mobile adjustments */
 @media screen and (max-width: 768px) {
     .header {
-        min-height: 60px !important;
-        padding: 10px 0 !important;
+        min-height: 50px !important; /* Reduced height */
+        padding: 5px 0 !important;
     }
 
     .main {
-        padding-top: 80px !important;
+        padding-top: 60px !important; /* Reduced padding for mobile */
     }
 
     .nav {
-        margin: 0 !important;
-        padding: 0 15px !important;
+        padding: 0 10px !important;
+        flex-wrap: nowrap !important;
     }
 
     .logo {
-        display: flex !important;
-        align-items: center !important;
-        padding: 0 15px !important;
-        margin-right: 40px !important;
+        flex: 1 !important;
     }
 
+    /* Reduce text size in header for mobile */
     .logo a {
-        font-size: 18px;
-        line-height: 1.2;
+        font-size: 14px !important;
+        line-height: 1.2 !important;
     }
 
-    #menu {
-        margin: 5px var(--gap);
+    .menu {
+        font-size: 14px !important;
     }
 
-    /* Adjust post entries for mobile */
+    /* Theme toggle button mobile positioning */
+    .theme-toggle {
+        margin-right: 10px !important;
+        transform: scale(0.9) !important; /* Slightly smaller toggle button */
+    }
+
+    /* Post entries styling */
     .post-entry, .first-entry {
-        margin: 15px 0 !important;
-        padding: 20px !important;
+        margin-top: 15px !important;
+        padding: 15px !important;
         border-radius: 8px !important;
         background: var(--entry) !important;
         border: 1px solid var(--border) !important;
     }
 
-    /* Theme toggle button mobile positioning */
-    .theme-toggle {
-        position: absolute !important;
-        right: 15px !important;
-        top: 50% !important;
-        transform: translateY(-50%) !important;
-        margin: 0 !important;
-        padding: 0 !important;
+    .post-entry:first-of-type {
+        margin-top: 20px !important;
     }
 
-    /* Ensure menu items don't overlap with theme toggle */
-    .menu {
-        margin-right: 60px !important;
-    }
-
-    /* Make all entries consistent on mobile */
     .post-entry .entry-header h2,
     .first-entry .entry-header h1 {
-        font-size: 20px !important;
+        font-size: 16px !important;
         line-height: 1.3 !important;
         margin: 8px 0 !important;
     }
