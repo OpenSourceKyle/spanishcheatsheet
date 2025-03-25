@@ -1,0 +1,63 @@
+baseURL = "https://example.com/"
+title = "Spanish Grammar & Vocabulary Cheat Sheet"
+theme = "PaperMod"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+# Enable features
+enableEmoji = true
+enableRobotsTXT = true
+enableSource = true
+enableGitInfo = true
+
+# PaperMod specific settings
+[params]
+  env = "production"
+  title = "Spanish Grammar & Vocabulary Cheat Sheet"
+  description = "A comprehensive reference guide for Spanish grammar and vocabulary"
+  keywords = ["Spanish", "Grammar", "Vocabulary", "Cheat Sheet", "Reference"]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  [params.homeInfoParams]
+    Title = "Spanish Grammar & Vocabulary Cheat Sheet"
+    Content = "Welcome to your comprehensive Spanish language reference guide"
+
+[params.profileMode]
+  enabled = false
+
+[params.layout]
+  mainSections = ["post"]
+  listType = "default"
+  [params.layout.list]
+    [params.layout.list.simple]
+      enable = true
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = -100
+    pre = "home"
+  [[menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "/search"
+    weight = -90
+    pre = "search"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
