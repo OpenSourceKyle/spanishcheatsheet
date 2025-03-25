@@ -68,3 +68,12 @@ enableGitInfo = true
 [taxonomies]
   tag = "tags"
   category = "categories"
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 1
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

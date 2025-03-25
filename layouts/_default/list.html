@@ -1,0 +1,43 @@
+{{- define "main" }}
+
+{{- if .IsHome }}
+  {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+  {{- $pages = where $pages "Draft" "!=" true }}
+  {{- with index $pages 0 }}
+    {{- .Render "single" -}}
+  {{- end }}
+{{- else }}
+  {{- if not .IsHome | and .Title }}
+  <header class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{- if .Description }}
+    <div class="post-description">
+      {{ .Description | markdownify }}
+    </div>
+    {{- end }}
+  </header>
+  {{- end }}
+
+  {{- if .Content }}
+  <div class="post-content">
+    {{ .Content | markdownify }}
+  </div>
+  {{- end }}
+
+  {{- $pages := union .RegularPages .Sections }}
+  {{- range $pages }}
+  <article class="post-entry">
+    <header class="entry-header">
+      <h2>{{ .Title }}</h2>
+    </header>
+    {{- if (ne (.Param "hideSummary") true) }}
+    <div class="entry-content">
+      <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+    </div>
+    {{- end }}
+    <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+  </article>
+  {{- end }}
+{{- end }}
+
+{{- end }} 

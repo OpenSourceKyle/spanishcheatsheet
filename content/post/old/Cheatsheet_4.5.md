@@ -1,7 +1,7 @@
 ---
 title: "Cheatsheet vGPT-4.5"
 date: 2024-03-25
-draft: false
+draft: true
 description: "Guía práctica de gramática española con ejercicios y ejemplos"
 tags: ["Spanish", "Grammar", "Practice", "Exercises"]
 categories: ["Language Learning"]

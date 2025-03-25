@@ -1,7 +1,7 @@
 ---
-title: "Cheatsheet vGPT-o3-mini-high"
+title: "Cheatsheet vGPT-3.0 Mini High"
 date: 2024-03-25
-draft: false
+draft: true
 description: "Una guía concisa de conceptos avanzados del español, incluyendo conectores, verbos y estructuras gramaticales"
 tags: ["Spanish", "Grammar", "Advanced", "Quick Guide"]
 categories: ["Language Learning"]

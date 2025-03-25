@@ -1,7 +1,7 @@
 ---
 title: "Cheatsheet vGPT-4o Deep"
 date: 2024-03-25
-draft: false
+draft: true
 description: "Una guía detallada de los conceptos avanzados de la gramática española, incluyendo conectores temporales, verbos de opinión, y más"
 tags: ["Spanish", "Grammar", "Advanced", "Guide"]
 categories: ["Language Learning"]
