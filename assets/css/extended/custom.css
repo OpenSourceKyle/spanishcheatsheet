@@ -56,12 +56,14 @@
 }
 
 /* Theme toggle button positioning */
-.theme-toggle {
+#theme-toggle {
     position: static !important;
     margin-left: auto !important;
     margin-right: 20px !important;
     transform: none !important;
     order: 2 !important;
+    cursor: pointer !important;
+    z-index: 1000 !important;
 }
 
 .logo {
@@ -112,7 +114,7 @@
     }
 
     /* Theme toggle button mobile positioning */
-    .theme-toggle {
+    #theme-toggle {
         margin-right: 10px !important;
         transform: scale(0.9) !important; /* Slightly smaller toggle button */
     }

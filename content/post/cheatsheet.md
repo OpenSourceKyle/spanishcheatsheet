@@ -17,32 +17,22 @@ TocLevels: [1]
 Palabras que enlazan oraciones indicando relaciones temporales (simultaneidad, anterioridad o posterioridad). El uso adecuado determina si se usa indicativo (para hechos conocidos o habituales) o subjuntivo (para acciones futuras o no realizadas).
 
 ## 📚 Términos
-- **cuando** (Neutro)
-  - when
-- **mientras (que)** (Neutro)
-  - while
-- **antes / antes de que** (Neutro + Subjuntivo con sujetos distintos)
-  - before
-- **después de que** (Neutro + Indicativo/Subjuntivo según contexto)
-  - after
-- **hasta que** (Neutro + Indicativo para pasado/habitual; Subjuntivo para pendiente)
-  - until
-- **en cuanto / tan pronto como** (Neutro + "tan pronto como" más formal)
-  - as soon as
-- **nada más** (Informal)
-  - just after/as soon as
-- **cada vez** (Neutro)
-  - every time
-- **siempre / todas las veces** (Neutro)
-  - always / every time
-- **una vez / una vez que** (Neutro + "una vez que" más formal)
-  - once
-- **al** (Neutro)
-  - upon
-- **apenas** (Formal + Registro escrito/literario)
-  - as soon as
-- **siempre que** (Neutro)
-  - whenever/as long as
+
+| Término | Traducción | Modo Verbal | Tono | Formalidad |
+|---------|------------|--------------|------|------------|
+| cuando | when | Indicativo/Subjuntivo | Neutro | Neutro |
+| mientras (que) | while | Indicativo/Subjuntivo | Neutro | Neutro |
+| antes / antes de que | before | Subjuntivo | Neutro | Neutro |
+| después de que | after | Indicativo/Subjuntivo | Neutro | Neutro |
+| hasta que | until | Indicativo/Subjuntivo | Neutro | Neutro |
+| en cuanto / tan pronto como | as soon as | Indicativo/Subjuntivo | Neutro | Neutro |
+| nada más | just after/as soon as | Indicativo | Informal | Informal |
+| cada vez | every time | Indicativo | Neutro | Neutro |
+| siempre / todas las veces | always / every time | Indicativo | Neutro | Neutro |
+| una vez / una vez que | once | Indicativo/Subjuntivo | Neutro | Neutro |
+| al | upon | Indicativo | Neutro | Neutro |
+| apenas | as soon as | Indicativo | Formal | Formal |
+| siempre que | whenever/as long as | Indicativo/Subjuntivo | Neutro | Neutro |
 
 ## Ejemplos  
 1. Te llamo en cuanto **llegue**. (Subjuntivo)  
@@ -59,20 +49,16 @@ Se usan para expresar creencias o suposiciones. Las oraciones que los acompañan
 - **Subjuntivo** en negaciones o dudas.
 
 ## 🗣️ Términos y expresiones
-- **creer que** (Neutro + Indicativo)
-  - to believe that
-- **pensar que** (Neutro + Indicativo)
-  - to think that
-- **opinar que** (Neutro + Indicativo)
-  - to give an opinion
-- **asignar** (Formal)
-  - to assign
-- **me parece que** (Neutro + Indicativo)
-  - it seems to me that
-- **no creo que** (Neutro + Subjuntivo)
-  - I don't think that
-- **supongo que** (Neutro + Indicativo)
-  - I suppose that
+
+| Término | Traducción | Modo Verbal | Tono | Formalidad |
+|---------|------------|--------------|------|------------|
+| creer que | to believe that | Indicativo | Neutro | Neutro |
+| pensar que | to think that | Indicativo | Neutro | Neutro |
+| opinar que | to give an opinion | Indicativo | Neutro | Neutro |
+| asignar | to assign | Indicativo | Formal | Formal |
+| me parece que | it seems to me that | Indicativo | Neutro | Neutro |
+| no creo que | I don't think that | Subjuntivo | Neutro | Neutro |
+| supongo que | I suppose that | Indicativo | Neutro | Neutro |
 
 ## Ejemplos  
 1. Creo que **es** una buena idea. (Indicativo)  
@@ -81,44 +67,32 @@ Se usan para expresar creencias o suposiciones. Las oraciones que los acompañan
 
 ## Juicio de Valor ⚖️
 ### ✅ Indicativo
-- **seguro** (Neutro + Indicativo)
-  - sure
-- **obvio** (Neutro + Indicativo)
-  - obvious
-- **cierto** (Neutro + Indicativo)
-  - certain
-- **indudable** (Formal + Indicativo)
-  - undoubted
-- **innegable** (Formal + Indicativo)
-  - undeniable
-- **claro** (Neutro + Indicativo)
-  - clear
-- **comprobado** (Formal + Indicativo)
-  - proven
+
+| Término | Traducción | Modo Verbal | Tono | Formalidad |
+|---------|------------|--------------|------|------------|
+| seguro | sure | Indicativo | Neutro | Neutro |
+| obvio | obvious | Indicativo | Neutro | Neutro |
+| cierto | certain | Indicativo | Neutro | Neutro |
+| indudable | undoubted | Indicativo | Formal | Formal |
+| innegable | undeniable | Indicativo | Formal | Formal |
+| claro | clear | Indicativo | Neutro | Neutro |
+| comprobado | proven | Indicativo | Formal | Formal |
 
 ### ❓ Subjuntivo
-- **normal** (Neutro + Subjuntivo)
-  - normal
-- **lógico** (Neutro + Subjuntivo)
-  - logical
-- **horrible** (Neutro + Subjuntivo)
-  - horrible
-- **increíble** (Neutro + Subjuntivo)
-  - incredible
-- **bien** (Neutro + Subjuntivo)
-  - good
-- **necesario** (Neutro + Subjuntivo)
-  - necessary
-- **importante** (Neutro + Subjuntivo)
-  - important
-- **triste** (Neutro + Subjuntivo)
-  - sad
-- **bueno** (Neutro + Subjuntivo)
-  - good
-- **mal** (Neutro + Subjuntivo)
-  - bad
-- **malo** (Neutro + Subjuntivo)
-  - bad
+
+| Término | Traducción | Modo Verbal | Tono | Formalidad |
+|---------|------------|--------------|------|------------|
+| normal | normal | Subjuntivo | Neutro | Neutro |
+| lógico | logical | Subjuntivo | Neutro | Neutro |
+| horrible | horrible | Subjuntivo | Neutro | Neutro |
+| increíble | incredible | Subjuntivo | Neutro | Neutro |
+| bien | good | Subjuntivo | Neutro | Neutro |
+| necesario | necessary | Subjuntivo | Neutro | Neutro |
+| importante | important | Subjuntivo | Neutro | Neutro |
+| triste | sad | Subjuntivo | Neutro | Neutro |
+| bueno | good | Subjuntivo | Neutro | Neutro |
+| mal | bad | Subjuntivo | Neutro | Neutro |
+| malo | bad | Subjuntivo | Neutro | Neutro |
 
 ### Decir
 #### Indicativo
@@ -135,60 +109,40 @@ Se usan para expresar creencias o suposiciones. Las oraciones que los acompañan
 Evalúan situaciones, expresando opiniones o valoraciones (positivas, negativas, de necesidad, etc.). Pueden aparecer en estructuras impersonales o personales.
 
 ## 📊 Adjetivos y calificativos
-- **seguro** (Neutro + Indicativo)
-  - sure
-- **obvio** (Neutro + Indicativo)
-  - obvious
-- **cierto** (Neutro + Indicativo)
-  - certain
-- **indudable** (Formal + Indicativo)
-  - undoubted
-- **innegable** (Formal + Indicativo)
-  - undeniable
-- **claro** (Neutro + Indicativo)
-  - clear
-- **comprobado** (Formal + Indicativo)
-  - proven
+
+| Término | Traducción | Modo Verbal | Tono | Formalidad |
+|---------|------------|--------------|------|------------|
+| seguro | sure | Indicativo | Neutro | Neutro |
+| obvio | obvious | Indicativo | Neutro | Neutro |
+| cierto | certain | Indicativo | Neutro | Neutro |
+| indudable | undoubted | Indicativo | Formal | Formal |
+| innegable | undeniable | Indicativo | Formal | Formal |
+| claro | clear | Indicativo | Neutro | Neutro |
+| comprobado | proven | Indicativo | Formal | Formal |
 
 ## Expresiones comunes
-- **Es normal que...** (Neutro + Subjuntivo)
-  - It is normal that...
-- **Es lógico que...** (Neutro + Subjuntivo)
-  - It is logical that...
-- **Es horrible que...** (Neutro + Subjuntivo)
-  - It is horrible that...
-- **Es increíble que...** (Neutro + Subjuntivo)
-  - It is incredible that...
-- **Es bien que...** (Neutro + Subjuntivo)
-  - It is good that...
-- **Es necesario que...** (Neutro + Subjuntivo)
-  - It is necessary that...
-- **Es importante que...** (Neutro + Subjuntivo)
-  - It is important that...
-- **Es triste que...** (Neutro + Subjuntivo)
-  - It is sad that...
-- **Es bueno que...** (Neutro + Subjuntivo)
-  - It is good that...
-- **Es mal que...** (Neutro + Subjuntivo)
-  - It is bad that...
-- **Es malo que...** (Neutro + Subjuntivo)
-  - It is bad that...
-- **Es recomendable que...** (Formal + Subjuntivo)
-  - It is recommended that...
-- **Es una lástima que...** (Neutro + Subjuntivo)
-  - It's a shame that...
-- **Es justo/injusto que...** (Neutro + Subjuntivo)
-  - It is fair/unfair that...
-- **Me parece bien/mal que...** (Neutro + Subjuntivo)
-  - It seems good/bad to me that...
-- **Más vale que...** (Informal + Subjuntivo)
-  - It's better that...
-- **Vale la pena que...** (Neutro + Subjuntivo)
-  - It's worth it that...
-- **Agradezco que...** (Formal + Subjuntivo)
-  - I appreciate that...
-- **Lamento que...** (Neutro + Subjuntivo)
-  - I regret that...
+
+| Expresión | Traducción | Modo Verbal | Tono | Formalidad |
+|-----------|------------|--------------|------|------------|
+| Es normal que... | It is normal that... | Subjuntivo | Neutro | Neutro |
+| Es lógico que... | It is logical that... | Subjuntivo | Neutro | Neutro |
+| Es horrible que... | It is horrible that... | Subjuntivo | Neutro | Neutro |
+| Es increíble que... | It is incredible that... | Subjuntivo | Neutro | Neutro |
+| Es bien que... | It is good that... | Subjuntivo | Neutro | Neutro |
+| Es necesario que... | It is necessary that... | Subjuntivo | Neutro | Neutro |
+| Es importante que... | It is important that... | Subjuntivo | Neutro | Neutro |
+| Es triste que... | It is sad that... | Subjuntivo | Neutro | Neutro |
+| Es bueno que... | It is good that... | Subjuntivo | Neutro | Neutro |
+| Es mal que... | It is bad that... | Subjuntivo | Neutro | Neutro |
+| Es malo que... | It is bad that... | Subjuntivo | Neutro | Neutro |
+| Es recomendable que... | It is recommended that... | Subjuntivo | Formal | Formal |
+| Es una lástima que... | It's a shame that... | Subjuntivo | Neutro | Neutro |
+| Es justo/injusto que... | It is fair/unfair that... | Subjuntivo | Neutro | Neutro |
+| Me parece bien/mal que... | It seems good/bad to me that... | Subjuntivo | Neutro | Neutro |
+| Más vale que... | It's better that... | Subjuntivo | Informal | Informal |
+| Vale la pena que... | It's worth it that... | Subjuntivo | Neutro | Neutro |
+| Agradezco que... | I appreciate that... | Subjuntivo | Formal | Formal |
+| Lamento que... | I regret that... | Subjuntivo | Neutro | Neutro |
 
 ## Ejemplos  
 1. Es obvio que **tiene** razón. (Indicativo)  
@@ -209,22 +163,17 @@ Describen o especifican un sustantivo. Se distinguen dos usos:
 - **Explicativas** (con comas) para añadir información extra sobre un referente ya conocido.
 
 ## 🔑 Términos clave
-- **que** (Neutro + Uso general)
-  - that, which, who
-- **donde** (Neutro)
-  - where
-- **como** (Neutro)
-  - how, as
-- **cuando** (Neutro)
-  - when
-- **quien(es)** (Formal/Neutro + Usado tras preposición)
-  - who, whom
-- **el/la/lo que; los/las que** (Formal + Para mayor claridad)
-  - that/which/who
-- **el/la cual; los/las cuales** (Muy formal)
-  - which/who
-- **cuyo/a/os/as** (Formal/Literario)
-  - whose
+
+| Término | Traducción | Modo Verbal | Tono | Formalidad |
+|---------|------------|--------------|------|------------|
+| que | that, which, who | Indicativo/Subjuntivo | Neutro | Neutro |
+| donde | where | Indicativo | Neutro | Neutro |
+| como | how, as | Indicativo | Neutro | Neutro |
+| cuando | when | Indicativo | Neutro | Neutro |
+| quien(es) | who, whom | Indicativo | Formal/Neutro | Formal/Neutro |
+| el/la/lo que; los/las que | that/which/who | Indicativo | Formal | Formal |
+| el/la cual; los/las cuales | which/who | Indicativo | Formal | Formal |
+| cuyo/a/os/as | whose | Indicativo | Formal | Formal |
 
 ## 📖 Uso del modo verbal
 - **Indicativo:** Referente concreto o conocido. Ej.: *Conozco al profesor que enseña francés.* (Cosa específica)  
@@ -272,128 +221,95 @@ Palabras o expresiones que estructuran el discurso conectando ideas. Su uso adec
 ## Por función
 
 ### 🆕 Nuevo tema
-- **en cuanto** (Neutro)
-  - as for
-- **respecto a** (Neutro)
-  - regarding
-- **a propósito** (Neutro)
-  - on purpose
+
+| Término | Traducción | Modo Verbal | Tono | Formalidad |
+|---------|------------|--------------|------|------------|
+| en cuanto | as for | Indicativo | Neutro | Neutro |
+| respecto a | regarding | Indicativo | Neutro | Neutro |
+| a propósito | on purpose | Indicativo | Neutro | Neutro |
 
 ### ➕ Adición
-- **además** (Neutro)
-  - moreover, furthermore
-- **también** (Neutro)
-  - also
-- **no solo... sino también** (Neutro)
-  - not only... but also
-- **asimismo** (Formal)
-  - likewise, similarly
-- **así pues** (Neutro)
-  - thus
-- **igualmente** (Neutro)
-  - equally
-- **incluso** (Neutro)
-  - even (more importantly)
-- **encima** (Informal)
-  - on top of that (somewhat annoying)
-- **tampoco** (Negativo)
-  - neither (negative)
-- **ni** (Negativo)
-  - nor (negative)
-- **ni siquiera** (Negativo)
-  - not even (negative)
+
+| Término | Traducción | Modo Verbal | Tono | Formalidad |
+|---------|------------|--------------|------|------------|
+| además | moreover, furthermore | Indicativo | Neutro | Neutro |
+| también | also | Indicativo | Neutro | Neutro |
+| no solo... sino también | not only... but also | Indicativo | Neutro | Neutro |
+| asimismo | likewise, similarly | Indicativo | Formal | Formal |
+| así pues | thus | Indicativo | Neutro | Neutro |
+| igualmente | equally | Indicativo | Neutro | Neutro |
+| incluso | even (more importantly) | Indicativo | Neutro | Neutro |
+| encima | on top of that (somewhat annoying) | Indicativo | Informal | Informal |
+| tampoco | neither (negative) | Indicativo | Negativo | Neutro |
+| ni | nor (negative) | Indicativo | Negativo | Neutro |
+| ni siquiera | not even (negative) | Indicativo | Negativo | Neutro |
 
 ### ⚔️ Contraste/Oposición
-- **pero** (Neutro)
-  - but
-- **sin embargo** (Neutro)
-  - however
-- **no obstante** (Formal)
-  - nevertheless
-- **en cambio** (Neutro)
-  - on the other hand
-- **por el contrario** (Formal)
-  - on the contrary
-- **al contrario** (Neutro)
-  - on the contrary
-- **a pesar de (que)** (Neutro)
-  - despite, in spite of
-- **pese a (que)** (Formal)
-  - despite, although
-- **aunque** (Neutro)
-  - although, even though
-- **aun así** (Neutro)
-  - even so
+
+| Término | Traducción | Modo Verbal | Tono | Formalidad |
+|---------|------------|--------------|------|------------|
+| pero | but | Indicativo | Neutro | Neutro |
+| sin embargo | however | Indicativo | Neutro | Neutro |
+| no obstante | nevertheless | Indicativo | Formal | Formal |
+| en cambio | on the other hand | Indicativo | Neutro | Neutro |
+| por el contrario | on the contrary | Indicativo | Formal | Formal |
+| al contrario | on the contrary | Indicativo | Neutro | Neutro |
+| a pesar de (que) | despite, in spite of | Indicativo/Subjuntivo | Neutro | Neutro |
+| pese a (que) | despite, although | Indicativo/Subjuntivo | Formal | Formal |
+| aunque | although, even though | Indicativo/Subjuntivo | Neutro | Neutro |
+| aun así | even so | Indicativo | Neutro | Neutro |
 
 ### 📅 Secuencia/Orden
-- **primero / en primer lugar** (Neutro)
-  - first / firstly
-- **luego / después** (Neutro)
-  - then / afterwards
-- **a continuación** (Neutro)
-  - next, following
-- **seguidamente** (Formal)
-  - subsequently
-- **por último / finalmente** (Neutro)
-  - lastly / finally
-- **al principio / al inicio** (Neutro)
-  - at the beginning / at the start
-- **más adelante** (Neutro)
-  - later on
+
+| Término | Traducción | Modo Verbal | Tono | Formalidad |
+|---------|------------|--------------|------|------------|
+| primero / en primer lugar | first / firstly | Indicativo | Neutro | Neutro |
+| luego / después | then / afterwards | Indicativo | Neutro | Neutro |
+| a continuación | next, following | Indicativo | Neutro | Neutro |
+| seguidamente | subsequently | Indicativo | Formal | Formal |
+| por último / finalmente | lastly / finally | Indicativo | Neutro | Neutro |
+| al principio / al inicio | at the beginning / at the start | Indicativo | Neutro | Neutro |
+| más adelante | later on | Indicativo | Neutro | Neutro |
 
 ### 💡 Ejemplificación/Explicación
-- **por ejemplo** (Neutro)
-  - for example
-- **es decir** (Neutro)
-  - that is to say
-- **o sea** (Informal)
-  - in other words
-- **en otras palabras** (Neutro)
-  - in other words
-- **como** (Neutro)
-  - such as, like
-- **pongamos por caso** (Formal)
-  - let's take the case
+
+| Término | Traducción | Modo Verbal | Tono | Formalidad |
+|---------|------------|--------------|------|------------|
+| por ejemplo | for example | Indicativo | Neutro | Neutro |
+| es decir | that is to say | Indicativo | Neutro | Neutro |
+| o sea | in other words | Indicativo | Informal | Informal |
+| en otras palabras | in other words | Indicativo | Neutro | Neutro |
+| como | such as, like | Indicativo | Neutro | Neutro |
+| pongamos por caso | let's take the case | Indicativo | Formal | Formal |
 
 ### 🎯 Énfasis/Reformulación
-- **de hecho** (Neutro)
-  - in fact
-- **en realidad** (Neutro)
-  - actually, in reality
-- **sin duda** (Neutro)
-  - without doubt
-- **ciertamente** (Formal)
-  - certainly
-- **por supuesto** (Neutro)
-  - of course
-- **en efecto** (Formal)
-  - indeed
-- **mejor dicho** (Neutro)
-  - rather, more precisely
-- **más bien** (Neutro)
-  - rather
+
+| Término | Traducción | Modo Verbal | Tono | Formalidad |
+|---------|------------|--------------|------|------------|
+| de hecho | in fact | Indicativo | Neutro | Neutro |
+| en realidad | actually, in reality | Indicativo | Neutro | Neutro |
+| sin duda | without doubt | Indicativo | Neutro | Neutro |
+| ciertamente | certainly | Indicativo | Formal | Formal |
+| por supuesto | of course | Indicativo | Neutro | Neutro |
+| en efecto | indeed | Indicativo | Formal | Formal |
+| mejor dicho | rather, more precisely | Indicativo | Neutro | Neutro |
+| más bien | rather | Indicativo | Neutro | Neutro |
 
 ### 🎬 Conclusión/Resumen
-- **en resumen** (Neutro)
-  - in summary
-- **en pocas palabras** (Neutro)
-  - in a few words
-- **para resumir** (Neutro)
-  - to sum up
-- **en suma** (Formal)
-  - in sum
-- **globalmente** (Formal)
-  - globally
-- **en definitiva** (Neutro)
-  - ultimately
-- **al fin y al cabo** (Informal)
-  - after all
-- **en conclusión** (Neutro)
-  - in conclusion
-- **para finalizar** (Neutro)
-  - to conclude
 
-## 💡 Ejemplo de uso
+| Término | Traducción | Modo Verbal | Tono | Formalidad |
+|---------|------------|--------------|------|------------|
+| en resumen | in summary | Indicativo | Neutro | Neutro |
+| en pocas palabras | in a few words | Indicativo | Neutro | Neutro |
+| para resumir | to sum up | Indicativo | Neutro | Neutro |
+| en suma | in sum | Indicativo | Formal | Formal |
+| globalmente | globally | Indicativo | Formal | Formal |
+| en definitiva | ultimately | Indicativo | Neutro | Neutro |
+| al fin y al cabo | after all | Indicativo | Informal | Informal |
+| en conclusión | in conclusion | Indicativo | Neutro | Neutro |
+| para finalizar | to conclude | Indicativo | Neutro | Neutro |
+
+## �� Ejemplo de uso
 *En primer lugar*, se expone la idea. *Además*, se aportan evidencias. *Sin embargo*, hay discrepancias. *En conclusión*, se demuestra la tesis.
 
 ## 💡 Ejemplos
@@ -412,47 +328,39 @@ Palabras o expresiones que estructuran el discurso conectando ideas. Su uso adec
 Conectores que indican la razón (causa) y el resultado (consecuencia) de una acción o situación.
 
 ## ⚓ Causa
-- **porque** (Neutro)
-  - because
-- **como** (Neutro + Usado al inicio)
-  - since
-- **ya que** (Neutro)
-  - since
-- **puesto que** (Neutro)
-  - since
-- **debido a que** (Formal)
-  - due to the fact that
-- **por** (Neutro)
-  - because of
-- **a causa de** (Neutro)
-  - because of
-- **gracias a que** (Neutro)
-  - thanks to the fact that
+
+| Término | Traducción | Modo Verbal | Tono | Formalidad |
+|---------|------------|--------------|------|------------|
+| porque | because | Indicativo | Neutro | Neutro |
+| como | since | Indicativo | Neutro | Neutro |
+| ya que | since | Indicativo | Neutro | Neutro |
+| puesto que | since | Indicativo | Neutro | Neutro |
+| debido a que | due to the fact that | Indicativo | Formal | Formal |
+| por | because of | Indicativo | Neutro | Neutro |
+| a causa de | because of | Indicativo | Neutro | Neutro |
+| gracias a que | thanks to the fact that | Indicativo | Neutro | Neutro |
 
 ## 🎲 Consecuencia
+
 ### Después de una coma
-- **así que** (Neutro)
-  - so (remove "que" with pronouns)
-- **con lo que / conque** (Neutro)
-  - so
-- **de manera/forma/modo que** (Neutro)
-  - so that
-- **por lo que** (Neutro)
-  - so
-- **de forma que** (Neutro)
-  - so that
-- **de modo que** (Neutro)
-  - so that
-- **de ahí que** (Neutro + Subjuntivo)
-  - hence
+
+| Término | Traducción | Modo Verbal | Tono | Formalidad |
+|---------|------------|--------------|------|------------|
+| así que | so (remove "que" with pronouns) | Indicativo | Neutro | Neutro |
+| con lo que / conque | so | Indicativo | Neutro | Neutro |
+| de manera/forma/modo que | so that | Indicativo | Neutro | Neutro |
+| por lo que | so | Indicativo | Neutro | Neutro |
+| de forma que | so that | Indicativo | Neutro | Neutro |
+| de modo que | so that | Indicativo | Neutro | Neutro |
+| de ahí que | hence | Subjuntivo | Neutro | Neutro |
 
 ### Entre comas
-- **por consiguiente** (Formal)
-  - therefore
-- **en consecuencia** (Formal)
-  - as a consequence
-- **por lo tanto** (Formal)
-  - therefore
+
+| Término | Traducción | Modo Verbal | Tono | Formalidad |
+|---------|------------|--------------|------|------------|
+| por consiguiente | therefore | Indicativo | Formal | Formal |
+| en consecuencia | as a consequence | Indicativo | Formal | Formal |
+| por lo tanto | therefore | Indicativo | Formal | Formal |
 
 ## 💡 Ejemplos
 1. Como era tarde, no fuimos. (Causa)  
@@ -467,24 +375,22 @@ Conectores que indican la razón (causa) y el resultado (consecuencia) de una ac
 Formas de dar consejos que pueden expresarse de forma directa (mandatos) o indirecta (sugerencias suavizadas).
 
 ## ➡️ Formas directas
-- **Imperativo** (Directo + Mandato)
-  - Ejemplo: *¡Hazlo ya!*
-- **Deber + infinitivo** (Directo + Obligación)
-  - Ejemplo: *Debes estudiar.*
-- **Tener que + infinitivo** (Directo + Obligación)
-  - Ejemplo: *Tienes que estudiar.*
+
+| Forma | Uso | Ejemplo |
+|-------|-----|---------|
+| Imperativo | Directo + Mandato | *¡Hazlo ya!* |
+| Deber + infinitivo | Directo + Obligación | *Debes estudiar.* |
+| Tener que + infinitivo | Directo + Obligación | *Tienes que estudiar.* |
 
 ## ↪️ Formas indirectas
-- **Deberías/Podrías + infinitivo** (Suave + Sugerencia)
-  - Ejemplo: *Deberías descansar más.*
-- **Verbo de consejo + que + subjuntivo** (Neutro + Sugerencia)
-  - Ejemplo: *Te recomiendo que estudies.*
-- **Estructura impersonal** (Neutro + Sugerencia)
-  - Ejemplo: *Es importante que llegues temprano.*
-- **Pregunta sugerente** (Suave + Sugerencia)
-  - Ejemplo: *¿Por qué no hablas más despacio?*
-- **Condicional** (Suave + Sugerencia)
-  - Ejemplo: *Yo que tú, iría al médico.*
+
+| Forma | Uso | Ejemplo |
+|-------|-----|---------|
+| Deberías/Podrías + infinitivo | Suave + Sugerencia | *Deberías descansar más.* |
+| Verbo de consejo + que + subjuntivo | Neutro + Sugerencia | *Te recomiendo que estudies.* |
+| Estructura impersonal | Neutro + Sugerencia | *Es importante que llegues temprano.* |
+| Pregunta sugerente | Suave + Sugerencia | *¿Por qué no hablas más despacio?* |
+| Condicional | Suave + Sugerencia | *Yo que tú, iría al médico.* |
 
 ## 💡 Ejemplos de transformación
 1. **Directo:** *No comas tanta comida chatarra.*  
