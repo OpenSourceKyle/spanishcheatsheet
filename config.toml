@@ -1,0 +1,13 @@
+baseURL = "/"
+title = "Spanish Cheatsheet"
+theme = "PaperMod"
+
+[params]
+ShowToc = true
+TocOpen = true
+startLevel = 1
+endLevel = 1
+
+[params.homeInfoParams]
+Title = "Spanish Language Cheatsheet"
+Content = "A comprehensive guide to Spanish language learning" 
