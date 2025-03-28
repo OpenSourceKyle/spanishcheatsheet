@@ -5,10 +5,7 @@ description: "Guía completa que une conectores, verbos de opinión y juicio, or
 tags: ["Spanish", "Grammar", "Advanced", "Study Guide"]
 categories: ["Spanish Learning"]
 layout: "single"
-ShowToc: true
-TocOpen: true
 hidemeta: true
-toclevels: ["h1"]
 ---
 
 # 💭 1. Conectores Temporales
