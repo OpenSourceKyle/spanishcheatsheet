@@ -1,9 +1,5 @@
 ---
-title: "Cheatsheet de Gramática Española"
 date: "2024-03-25"
-description: "Guía completa que une conectores, verbos de opinión y juicio, oraciones relativas, voz pasiva, marcadores textuales, causa vs consecuencia, consejos y transformaciones de estilo (directo/indirecto)."
-tags: ["Spanish", "Grammar", "Advanced", "Study Guide"]
-categories: ["Spanish Learning"]
 layout: "single"
 hidemeta: true
 ---
