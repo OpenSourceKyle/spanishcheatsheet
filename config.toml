@@ -3,10 +3,23 @@ title = "Spanish Cheatsheet"
 theme = "PaperMod"
 
 [params]
+defaultTheme = "auto"
 ShowToc = true
 TocOpen = true
+
+[markup]
+[markup.tableOfContents]
 startLevel = 1
 endLevel = 1
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.goldmark.parser]
+[markup.goldmark.parser.attribute]
+block = true
+title = true
 
 [params.homeInfoParams]
 Title = "Spanish Language Cheatsheet"

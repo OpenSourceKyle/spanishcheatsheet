@@ -3,12 +3,12 @@ title: "Cheatsheet de Gramática Española"
 date: "2024-03-25"
 description: "Guía completa que une conectores, verbos de opinión y juicio, oraciones relativas, voz pasiva, marcadores textuales, causa vs consecuencia, consejos y transformaciones de estilo (directo/indirecto)."
 tags: ["Spanish", "Grammar", "Advanced", "Study Guide"]
-categories: ["Language Learning"]
+categories: ["Spanish Learning"]
+layout: "single"
 ShowToc: true
 TocOpen: true
-UseHugoToc: true
-weight: 1
-TocLevels: [1]
+hidemeta: true
+toclevels: ["h1"]
 ---
 
 # 💭 1. Conectores Temporales
@@ -309,7 +309,7 @@ Palabras o expresiones que estructuran el discurso conectando ideas. Su uso adec
 | en conclusión | in conclusion | Indicativo | Neutro | Neutro |
 | para finalizar | to conclude | Indicativo | Neutro | Neutro |
 
-## �� Ejemplo de uso
+## 💡 Ejemplo de uso
 *En primer lugar*, se expone la idea. *Además*, se aportan evidencias. *Sin embargo*, hay discrepancias. *En conclusión*, se demuestra la tesis.
 
 ## 💡 Ejemplos
