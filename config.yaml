@@ -1,0 +1,33 @@
+baseURL: "/"
+title: "Spanish Cheatsheet"
+theme: "PaperMod"
+
+params:
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  
+  profileMode:
+    enabled: false
+
+  homeInfoParams:
+    Title: "Spanish Language Cheatsheet"
+    Content: "A comprehensive guide to Spanish language learning"
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 30 
