@@ -43,15 +43,15 @@ Se usan para expresar creencias o suposiciones. Las oraciones que los acompañan
 
 ## 🗣️ Términos y expresiones
 
-| Término        | Traducción           | Modo Verbal | Formalidad |
-|----------------|----------------------|-------------|------------|
-| creer que     | to believe that      | Indicativo  | Neutro     |
-| pensar que    | to think that        | Indicativo  | Neutro     |
-| opinar que    | to give an opinion   | Indicativo  | Neutro     |
-| asignar       | to assign            | Indicativo  | Formal     |
-| me parece que | it seems to me that   | Indicativo  | Neutro     |
-| no creo que   | I don't think that   | Subjuntivo  | Neutro     |
-| supongo que   | I suppose that       | Indicativo  | Neutro     |
+| Término       | Traducción           | Modo Verbal | Formalidad |
+|--------------|---------------------|-------------|------------|
+| creer que    | to believe that     | Indicativo  | Neutro     |
+| pensar que   | to think that       | Indicativo  | Neutro     |
+| opinar que   | to give an opinion  | Indicativo  | Neutro     |
+| asignar que  | to assign          | Indicativo  | Formal     |
+| parecer que  | to seem that       | Indicativo  | Neutro     |
+| suponer que  | to suppose that    | Indicativo  | Neutro     |
+| no creer que | to not think that  | Subjuntivo  | Neutro     |
 
 ## Ejemplos  
 1. Creo que **es** una buena idea. (Indicativo)  
