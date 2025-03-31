@@ -7,7 +7,7 @@ A cheatsheet that details the various concepts that I have learned throughout my
 To clone this repository with all its submodules, use:
 
 ```bash
-git clone --recursive https://github.com/yourusername/spanishcheatsheet.git
+git clone --recursive git@github.com:OpenSourceKyle/spanishcheatsheet.git
 ```
 
 Or if you've already cloned the repository, you can initialize and update the submodules with:
