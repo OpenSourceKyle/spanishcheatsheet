@@ -498,7 +498,7 @@ El verbo *parecer* cambia de modo verbal según el tipo de valoración o juicio 
 
 ## 💡 Notas
 - En subjuntivo, se usa típicamente el **presente o imperfecto**, según el tiempo del verbo principal.
-- Cuando se usa con *como si*, se requiere **imperfecto o pluscuamperfecto de subjuntivo**.
+- Cuando se usa con *como si*, se requiere **pretérito o antepretérito de subjuntivo**.
 
 ---
 
@@ -509,17 +509,17 @@ Es el uso de una oración subordinada introducida por **"de que"** para modifica
 
 ## 🧱 Estructura
 
-| Tipo de sustantivo que modifica | Verbo en la subordinada | Ejemplo                                      |
-|----------------------------------|---------------------------|----------------------------------------------|
-| Emoción                          | Subjuntivo                | *Expresó la necesidad de que se trabaje más.* |
-| Voluntad                         | Subjuntivo                | *Manifestó el deseo de que vengas.*          |
-| Comunicación                     | Indicativo o Subjuntivo   | *Anunció la noticia de que llegaría tarde.*  |
-| Percepción (cosas menores)       | Indicativo o Subjuntivo   | *Tenía la impresión de que no entendía nada.*|
-| Cosas Mentales                   | Indicativo o Subjuntivo   | *Tengo la idea de que podría funcionar.*     |
-| Tiempo                           | Subjuntivo                | *Ya es la hora de que descansemos.*          |
-| Causa                            | Subjuntivo                | *La alegría de que hayas venido.*            |
-| Concepto (1ª vez)                | Indicativo                | *La idea de que la Tierra es redonda.*       |
-| Concepto (2ª+ vez)               | Subjuntivo                | *La idea de que sea posible viajar.*         |
+| Tipo de sustantivo que modifica | Verbo en la subordinada      | Ejemplo                                           |
+|----------------------------------|-------------------------------|--------------------------------------------------|
+| Emoción                          | Subjuntivo                   | *Expresó la necesidad de que se trabaje más.*     |
+| Voluntad                         | Subjuntivo                   | *Manifestó el deseo de que vengas.*               |
+| Comunicación                     | Indicativo (+) o Subjuntivo (-) | *No anunció la noticia de que vino tarde.*        |
+| Percepción (cosas menores)       | Indicativo (+) o Subjuntivo (-) | *No tenía la impresión de que entendiera nada.*   |
+| Cosas Mentales                   | Indicativo (+) o Subjuntivo (-) | *No tenía la impresión de que pueda funcionar.*   |
+| Tiempo                           | Subjuntivo                   | *Ya es la hora de que descansemos.*               |
+| Causa                            | Subjuntivo                   | *La alegría de que hayas venido.*                 |
+| Concepto (1ª vez)                | Indicativo                   | *La idea de que la Tierra es redonda.*            |
+| Concepto (2ª+ vez)               | Subjuntivo                   | *La idea de que sea posible viajar.*              |
 
 ## ⚠️ Notas
 - Se usa para evitar la repetición de estructuras con **"que"**.  
