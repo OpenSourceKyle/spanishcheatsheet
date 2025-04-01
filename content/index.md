@@ -486,20 +486,53 @@ El verbo *parecer* cambia de modo verbal según el tipo de valoración o juicio 
 |--------------------------------------|------------------------------------------------|
 | Expresar opinión de forma afirmativa | *Parece que mañana hará frío.*                |
 | Confirmar la realidad                | *Parece seguro que está en casa.*              |
-|                                      | *Parece obvio que estudió.*                    |
 
 ## ⚠️ Con el modo subjuntivo
 
-| Uso                                          | Ejemplo                                    |
+| Uso                                          | Ejemplo                                     |
 |----------------------------------------------|---------------------------------------------|
-| Valorar negativamente                        | *Me parece fatal que maten ballenas.*       |
+| Valorar negativamente                        | *No parece que llueva.*                     |
 | Adjetivos de juicio subjetivo                | *Parece horrible que no venga.*             |
 | Comparar hipotéticamente (*como si*)         | *Parece que hubieras visto un fantasma.*    |
-| Equivale a *querer que* (expresar deseo)     | *Parece que quiere que cocines tú.*         |
 | En preguntas indirectas (*¿Te parece que...?*)| *¿Te parece que cocine yo?*                |
 
 ## 💡 Notas
 - En subjuntivo, se usa típicamente el **presente o imperfecto**, según el tiempo del verbo principal.
 - Cuando se usa con *como si*, se requiere **imperfecto o pluscuamperfecto de subjuntivo**.
+
+---
+
+# 💬 11. La Subordinación Adnominal
+
+## 📝 Definición
+Es el uso de una oración subordinada introducida por **"de que"** para modificar un **sustantivo**. Es una construcción **formal**, común en lenguaje **escrito**.
+
+## 🧱 Estructura
+
+| Tipo de sustantivo que modifica | Verbo en la subordinada | Ejemplo                                      |
+|----------------------------------|---------------------------|----------------------------------------------|
+| Emoción                          | Subjuntivo                | *Expresó la necesidad de que se trabaje más.* |
+| Voluntad                         | Subjuntivo                | *Manifestó el deseo de que vengas.*          |
+| Comunicación                     | Indicativo o Subjuntivo   | *Anunció la noticia de que llegaría tarde.*  |
+| Percepción (cosas menores)       | Indicativo o Subjuntivo   | *Tenía la impresión de que no entendía nada.*|
+| Cosas Mentales                   | Indicativo o Subjuntivo   | *Tengo la idea de que podría funcionar.*     |
+| Tiempo                           | Subjuntivo                | *Ya es la hora de que descansemos.*          |
+| Causa                            | Subjuntivo                | *La alegría de que hayas venido.*            |
+| Concepto (1ª vez)                | Indicativo                | *La idea de que la Tierra es redonda.*       |
+| Concepto (2ª+ vez)               | Subjuntivo                | *La idea de que sea posible viajar.*         |
+
+## ⚠️ Notas
+- Se usa para evitar la repetición de estructuras con **"que"**.  
+- Es diferente de otras subordinadas sustantivas porque depende de un sustantivo y no de un verbo.  
+- Puede expresar causa o concepto.  
+  - Causa: *por* + indicativo  
+  - Concepto abstracto: 1ª vez indicativo, 2ª vez subjuntivo
+
+## 💡 Ejemplos
+
+1. *El capitán expresó la necesidad **de que se trabaje** más en el entrenamiento.*  
+2. *Ya es la hora **de que descansemos**.*  
+3. *Fue el momento **de que cambiara todo**.*  
+4. *Había llegado la oportunidad **de que hablaras claro**.*
 
 ---
