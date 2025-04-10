@@ -536,3 +536,27 @@ Es el uso de una oración subordinada introducida por **"de que"** para modifica
 4. *Había llegado la oportunidad **de que hablaras claro**.*
 
 ---
+
+# 💭 12. Perifrasis de Participio
+
+## 📝 Definición
+Estructuras verbales que combinan un verbo auxiliar con un participio para expresar diferentes matices de significado, como resultado, conclusión, o estado.
+
+## 📚 Términos
+
+| Estructura              | Significado                                 | Registro                     | Ejemplo                               |
+|-------------------------|----------------------------------------------|-------------------------------|----------------------------------------|
+| DAR POR + Participio    | Concluir una acción                         | Neutral                       | Damos por concluida la clase           |
+| ANDAR + Participio      | Acción que dura desde hace mucho tiempo     | Informal                      | Miguel anda estresado                  |
+| ESTAR + Participio      | Resultado de una acción                     | Neutral                       | El suelo está mojado                   |
+| QUEDAR + Participio     | Acción ya terminada                         | Neutral                       | Queda confirmada la fecha              |
+| QUEDARSE + Participio   | Consecuencia o resultado de una acción      | Neutral                       | Se quedó dormido                       |
+| LLEVAR + Participio     | Parte concluida de un proceso pero puede continuar | Neutral                       | Llevo leídas 40 páginas                |
+| TENER + Participio      | Resultado de un proceso concluido y no puede continuar | Neutral                       | Ya tengo corregidos los exámenes       |
+| SEGUIR + Participio     | Continuación de un estado                   | Neutral                       | Siguen enfadados                       |
+| DEJAR + Participio (orden) | Dar una orden o instrucción              | Oral, coloquial               | Dejo encendida la televisión           |
+| DEJAR + Participio (comunicación) | Informar sobre un estado o situación | Oral, coloquial               | Dejo dicho que vendría tarde           |
+| DEJAR + Participio (encargo) | Asignar una tarea o responsabilidad    | Oral, coloquial               | Dejo preparada la cena                 |
+| Conseguida...        | Conector temporal (equivale a "una vez que...") | Formal | Conseguida la autorización, iniciaron el trámite. |
+
+---
