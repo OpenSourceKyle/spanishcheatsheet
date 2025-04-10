@@ -544,7 +544,7 @@ Estructuras verbales que combinan un verbo auxiliar con un participio para expre
 
 ## 📚 Términos
 
-| Estructura              | Significado                                 | Registro                     | Ejemplo                               |
+| Estructura              | Significado                                 | Tono                     | Ejemplo                               |
 |-------------------------|----------------------------------------------|-------------------------------|----------------------------------------|
 | DAR POR + Participio    | Concluir una acción                         | Neutral                       | Damos por concluida la clase           |
 | ANDAR + Participio      | Acción que dura desde hace mucho tiempo     | Informal                      | Miguel anda estresado                  |
@@ -557,6 +557,26 @@ Estructuras verbales que combinan un verbo auxiliar con un participio para expre
 | DEJAR + Participio (orden) | Dar una orden o instrucción              | Oral, coloquial               | Dejo encendida la televisión           |
 | DEJAR + Participio (comunicación) | Informar sobre un estado o situación | Oral, coloquial               | Dejo dicho que vendría tarde           |
 | DEJAR + Participio (encargo) | Asignar una tarea o responsabilidad    | Oral, coloquial               | Dejo preparada la cena                 |
-| Conseguida...        | Conector temporal (equivale a "una vez que...") | Formal | Conseguida la autorización, iniciaron el trámite. |
+| Conseguida...        | Conector temporal (equivale a "una vez que...") | Formal | Conseguida la autorización, iniciaron el trámite. |
+
+---
+
+# 💭 13. Condicional con DE
+
+## 📝 Definición
+Estructuras formales que expresan condiciones hipotéticas usando la preposición "de" seguida de infinitivo. Son equivalentes a construcciones con "si" pero de uso más formal y escrito.
+
+## 📚 Términos
+
+| Estructura                                     | Equivalente con "si"                         | Uso                            | Registro |
+|------------------------------------------------|----------------------------------------------|---------------------------------|----------|
+| DE + infinitivo + condicional simple           | Si + imperfecto de subjuntivo + condicional  | 2a) condición irreal en presente/futuro | Muy formal (escrito) |
+| DE + infinitivo compuesto + condicional compuesto | Si + pluscuamperfecto de subjuntivo + condicional compuesto | 3a) condición irreal en el pasado | Muy formal (escrito) |
+
+## 💡 Ejemplos adicionales
+1. De **tener** tiempo, te **ayudaría** con el proyecto. (= Si tuviera tiempo...)
+2. De **haber sabido** antes, te **habría avisado**. (= Si hubiera sabido antes...)
+3. De **llover** mañana, el evento **se cancelaría**. (= Si lloviera mañana...)
+4. De **haber tenido** más recursos, **habríamos podido** hacer más. (= Si hubiéramos tenido más recursos...)
 
 ---
