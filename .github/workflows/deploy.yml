@@ -30,6 +30,9 @@ jobs:
           submodules: recursive
           fetch-depth: 0
 
+      - name: DEBUG - ensure modules recursively built
+        run: git submodule update --init --recursive
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
