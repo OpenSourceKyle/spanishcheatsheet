@@ -4,7 +4,7 @@ layout: "single"
 hidemeta: true
 ---
 
-# 💭 1. Conectores Temporales
+# ⏱️ 1. Conectores Temporales
 
 ## 📝 Definición
 Palabras que enlazan oraciones indicando relaciones temporales (simultaneidad, anterioridad o posterioridad). El uso adecuado determina si se usa indicativo (para hechos conocidos o habituales) o subjuntivo (para acciones futuras o no realizadas).
@@ -473,7 +473,7 @@ El estilo directo reproduce las palabras exactas (usando comillas o guiones), mi
 
 ---
 
-# 💬 10. El verbo *parecer*: Indicativo vs Subjuntivo
+# 🤔 10. El verbo *parecer*: Indicativo vs Subjuntivo
 
 ## 📝 Definición
 El verbo *parecer* cambia de modo verbal según el tipo de valoración o juicio que se exprese.
@@ -502,7 +502,29 @@ El verbo *parecer* cambia de modo verbal según el tipo de valoración o juicio 
 
 ---
 
-# 💬 11. La Subordinación Adnominal
+# 🍽️ 11. Expresiones de Gusto
+
+## 📝 Definición
+Estructuras que expresan valoraciones sobre el sabor, apariencia o calidad de algo, ya sea en el momento presente o como recuerdo de una experiencia pasada.
+
+## 📚 Términos
+
+| Estructura                                   | Contexto                        | Ejemplo(s)                                                         |
+|----------------------------------------------|----------------------------------|---------------------------------------------------------------------|
+| Estar + adjetivo o expresión                 | Sensación actual al probar algo | Está rico / buenísimo / para chuparse los dedos / asqueroso        |
+| Si se refiere a un momento presente          | Valoración inmediata            | Tiene buena/mala cara / Esto ni quien se lo coma                   |
+| Si se refiere a una experiencia del pasado   | Recuerdo o juicio retrospectivo | Eso ni quien se lo comiera                                         |
+
+## 💡 Ejemplos
+1. **Presente:** Este pastel **está** riquísimo. (Valoración inmediata)
+2. **Presente:** La sopa **está** para chuparse los dedos. (Expresión coloquial)
+3. **Presente:** Este plato **tiene** mala cara. (Valoración visual)
+4. **Pasado:** Ese restaurante **estaba** para no volver. (Recuerdo negativo)
+5. **Pasado:** La comida **estaba** como para no comerla. (Recuerdo con énfasis)
+
+---
+
+# 📚 12. La Subordinación Adnominal
 
 ## 📝 Definición
 Es el uso de una oración subordinada introducida por **"de que"** para modificar un **sustantivo**. Es una construcción **formal**, común en lenguaje **escrito**.
@@ -537,14 +559,14 @@ Es el uso de una oración subordinada introducida por **"de que"** para modifica
 
 ---
 
-# 💭 12. Perifrasis de Participio
+# 🔄 13. Perifrasis de Participio
 
 ## 📝 Definición
 Estructuras verbales que combinan un verbo auxiliar con un participio para expresar diferentes matices de significado, como resultado, conclusión, o estado.
 
 ## 📚 Términos
 
-| Estructura              | Significado                                 | Tono                     | Ejemplo                               |
+| Estructura              | Significado                                 | Formalidad                     | Ejemplo                               |
 |-------------------------|----------------------------------------------|-------------------------------|----------------------------------------|
 | DAR POR + Participio    | Concluir una acción                         | Neutral                       | Damos por concluida la clase           |
 | ANDAR + Participio      | Acción que dura desde hace mucho tiempo     | Informal                      | Miguel anda estresado                  |
@@ -561,14 +583,14 @@ Estructuras verbales que combinan un verbo auxiliar con un participio para expre
 
 ---
 
-# 💭 13. Condicional con DE
+# 🔀 14. Condicional con DE o SI
 
 ## 📝 Definición
 Estructuras formales que expresan condiciones hipotéticas usando la preposición "de" seguida de infinitivo. Son equivalentes a construcciones con "si" pero de uso más formal y escrito.
 
 ## 📚 Términos
 
-| Estructura                                     | Equivalente con "si"                         | Uso                            | Registro |
+| Estructura                                     | Equivalente con "si"                         | Uso                            | Formalidad |
 |------------------------------------------------|----------------------------------------------|---------------------------------|----------|
 | DE + infinitivo + condicional simple           | Si + imperfecto de subjuntivo + condicional  | 2a) condición irreal en presente/futuro | Muy formal (escrito) |
 | DE + infinitivo compuesto + condicional compuesto | Si + pluscuamperfecto de subjuntivo + condicional compuesto | 3a) condición irreal en el pasado | Muy formal (escrito) |
@@ -578,5 +600,61 @@ Estructuras formales que expresan condiciones hipotéticas usando la preposició
 2. De **haber sabido** antes, te **habría avisado**. (= Si hubiera sabido antes...)
 3. De **llover** mañana, el evento **se cancelaría**. (= Si lloviera mañana...)
 4. De **haber tenido** más recursos, **habríamos podido** hacer más. (= Si hubiéramos tenido más recursos...)
+
+---
+
+# 🔄 15. Estructuras de Corrección
+
+## 📝 Definición
+Estructuras que se utilizan para corregir o matizar una suposición anterior, presentando la causa real o verdadera de una situación. Combinan el uso del subjuntivo (para la suposición) con el indicativo (para la causa real).
+
+## 📚 Términos
+
+| Estructura                                      | Uso                                                                 | Formalidad |
+|------------------------------------------------|----------------------------------------------------------------------|------------|
+| No porque + subjuntivo, sino porque + indicativo | Corrige una suposición anterior con una causa real ya conocida       | Neutral    |
+| No es que + subjuntivo, sino que + indicativo   | Suaviza una negación y expresa la causa real                        | Neutral    |
+
+## 💡 Ejemplos
+1. No es que *no quiera* ayudarte, sino que *estoy muy ocupado* ahora.
+2. No voy no porque *me moleste* el ruido, sino porque *tengo que estudiar*.
+3. No es que *no me importe*, sino que *tengo otras prioridades*.
+4. No lo hice no porque *no pudiera*, sino porque *no era el momento adecuado*.
+
+---
+
+# 🔗 16. Conectores concesivos
+
+## 📝 Definición
+Estructuras que expresan una objeción o dificultad que no impide la realización de la acción principal. Pueden usar tanto indicativo como subjuntivo dependiendo del grado de certeza o realidad de la concesión.
+
+## 📚 Términos
+
+| Conector                                             | Modo Verbal                                          | Uso                                                                 | Formalidad              |
+|------------------------------------------------------|------------------------------------------------------|----------------------------------------------------------------------|------------------------|
+| Aunque                                                | Indicativo                                          | Hecho real o compartido                                             | Neutral                |
+| Aunque                                                | Subjuntivo (presente/antepresente)                  | Hecho no confirmado / desconocido / con indiferencia                | Neutral                |
+| Aunque                                                | Subjuntivo (copretérito)                            | Muy difícil realización o no sirve como argumento                   | Neutral                |
+| Aunque                                                | Subjuntivo (antecopretérito)                        | Muy difícil realización en el pasado                               | Neutral                |
+| Por más/mucho/muy... que                              | Subjuntivo o Indicativo                             | Concesiva de cantidad / intensidad                                   | Formal o expresiva     |
+| Por poco que                                          | Subjuntivo                                          | Concesiva de mínima intensidad                                       | Neutral                |
+| Pese a que / A pesar de que                          | Indicativo o Subjuntivo                             | Concesiva equivalente a 'aunque'                                     | Más formal             |
+| Aun                                                   | Gerundio                                            | Concesiva formal con acción en curso                                 | Formal                 |
+| Y eso que / Y mira que                               | Indicativo                                          | Concesiva con reproche o sorpresa                                    | Informal (hablada)     |
+| Si bien                                               | Indicativo                                          | Concesiva culta / matiz contrastivo                                  | Formal                 |
+| Aun a sabiendas de que                               | Indicativo                                          | Concesiva culta con conocimiento previo                              | Formal                 |
+| Hagas lo que hagas / Diga lo que diga...             | Subjuntivo                                          | Estructura reduplicativa con subjuntivo, expresa indiferencia        | Neutro a expresivo     |
+
+## 💡 Ejemplos
+1. No voy a tomar el trabajo, aunque **estoy** dispuesta a trabajar. (Hecho real)
+2. Aunque **esté** lleno de gente, me da igual. (Hecho no confirmado)
+3. Aunque **hubiera ido**, no lo habría pasado bien. (Situación irreal)
+4. Por más que **se lo digo**, no me hace caso. (Concesiva de intensidad)
+5. Por poco que **trabaje**, siempre recibe elogios. (Mínima intensidad)
+6. Pese a que **llueve**, viajaremos en auto. (Equivalente a aunque)
+7. Aun **sabiendo** que generará disturbios, lo aprobaron. (Acción en curso)
+8. Y eso que **salió** temprano de casa. (Con reproche)
+9. Si bien **no es** el resultado que esperaba, estoy contento. (Matiz contrastivo)
+10. Hagas lo que **hagas**, pienso salir de excursión este fin de semana. (Indiferencia)
 
 ---
