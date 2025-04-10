@@ -30,8 +30,8 @@ jobs:
           submodules: recursive
           fetch-depth: 0
 
-      - name: DEBUG - ensure modules recursively built
-        run: git submodule update --init --recursive
+      - name: DEBUG - List files
+        run: find . -type f | grep schema_json
 
       - name: Setup Pages
         id: pages
