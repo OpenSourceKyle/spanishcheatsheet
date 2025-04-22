@@ -655,7 +655,6 @@ Estructuras que expresan una objeción o dificultad que no impide la realizació
 7. Aun **sabiendo** que generará disturbios, lo aprobaron. (Acción en curso)
 8. Y eso que **salió** temprano de casa. (Con reproche)
 9. Si bien **no es** el resultado que esperaba, estoy contento. (Matiz contrastivo)
-<<<<<<< HEAD
 10. Hagas lo que **hagas**, pienso salir de excursión este fin de semana. (Indiferencia)
 
 ---
@@ -738,6 +737,3 @@ Estructuras que expresan condiciones en español, desde generales hasta restrict
 5. *En caso de que* haya problemas, llámame. (Compleja)
 
 ---
-=======
-10. Hagas lo que **hagas**, pienso salir de excursión este fin de semana. (Indiferencia)
->>>>>>> 5ed8cda4cf4d6b1e3cc323d8650165c673dbc74e
