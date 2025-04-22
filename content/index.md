@@ -658,3 +658,82 @@ Estructuras que expresan una objeción o dificultad que no impide la realizació
 10. Hagas lo que **hagas**, pienso salir de excursión este fin de semana. (Indiferencia)
 
 ---
+
+# 🔄 17. Perífrasis Verbales con Infinitivo
+
+## 📝 Definición
+Construcciones perifrásticas con verbos en infinitivo que expresan diferentes matices gramaticales o semánticos como obligación, repetición, inicio o final de una acción.
+
+## 📚 Términos
+
+| Perífrasis                    | Significado                                                         | Formalidad |
+|------------------------------|---------------------------------------------------------------------|------------|
+| Volver a + infinitivo        | Reiteración (otra vez, de nuevo)                                    | Neutral    |
+| Llegar a + infinitivo        | Extremo o culminación (incluso, ir hasta el extremo de)             | Neutral    |
+| Venir a + infinitivo         | Culminación o finalidad (servir para)                               | Neutral    |
+| Romper a + infinitivo        | Inicio súbito (común con verbos emotivos)                           | Expresivo  |
+| Meterse a + infinitivo       | Emprender algo sin capacitación                                      | Informal   |
+| Acabar de + infinitivo       | Acción recién sucedida                                              | Neutral    |
+| Tener que + infinitivo       | Obligación personal                                                  | Neutral    |
+| Haber que + infinitivo       | Obligación impersonal (3ª persona)                                  | Neutral    |
+| Deber de + infinitivo        | Probabilidad aproximada                                              | Neutral    |
+| Darle (a uno) por + infinitivo| Inicio desmedido o injustificado                                    | Informal   |
+| Ponerse a + infinitivo       | Inicio de acción (empezar a)                                        | Neutral    |
+| Acabar por + infinitivo      | Terminación (negativa o inesperada)                                 | Neutral    |
+| Ir a + infinitivo           | Futuro inmediato                                                     | Neutral    |
+| Echar a + infinitivo        | Inicio súbito con verbos emotivos                                    | Expresivo  |
+
+## 💡 Ejemplos
+1. *Volvió a llamar* después de colgar. (Reiteración)
+2. *Llegó a ser* presidente del país. (Culminación)
+3. *Rompió a llorar* al oír la noticia. (Inicio súbito)
+4. *Tengo que estudiar* para el examen. (Obligación)
+5. *Va a llover* esta tarde. (Futuro inmediato)
+
+---
+
+# ⚡ 18. Conectores Condicionales
+
+## 📝 Definición
+Estructuras que expresan condiciones en español, desde generales hasta restrictivas o indispensables. El modo verbal varía según el grado de certeza o imposición de la condición.
+
+## 📚 Términos
+
+### 🔄 Condiciones Generales
+
+| Estructura                    | Uso                                  | Modo Verbal |
+|------------------------------|--------------------------------------|-------------|
+| Si + presente/imperfecto     | Condiciones reales o posibles        | Indicativo  |
+| De + infinitivo             | Alternativa formal a "si"            | -           |
+
+### ⚠️ Condiciones Mínimas (Siempre con subjuntivo)
+
+| Conector                    | Uso                                  | Formalidad  |
+|----------------------------|--------------------------------------|-------------|
+| A condición de que         | Condición indispensable              | Formal      |
+| Mientras                   | Similar pero más coloquial           | Neutral     |
+| Con que                    | Variante formal                      | Formal      |
+| Siempre que               | Más común en general                     | Neutral     |
+| Siempre y cuando          | Más común en escritura                  | Formal     |
+| Con tal de que            | Similar a "a condición de que"          | Neutral     |
+
+### ❌ Condiciones Restrictivas (Siempre con subjuntivo)
+
+| Conector                    | Uso                                  | Formalidad  |
+|----------------------------|--------------------------------------|-------------|
+| A no ser que               | Única excepción posible              | Formal      |
+| Salvo que                  | Similar a "a no ser que"             | Formal      |
+| Excepto que               | Similar a "a no ser que"             | Formal      |
+| A menos que                | Similar a los anteriores             | Formal      |
+| En (el) caso de que        | Previsión de posibilidades           | Formal      |
+| A cambio de que            | Intercambio condicional              | Formal      |
+| Como                       | Advertencia o amenaza                | Informal    |
+
+## 💡 Ejemplos
+1. *Si vienes* temprano, iremos al cine. (General)
+2. Te ayudaré *a condición de que* me ayudes después. (Mínima)
+3. *A no ser que* llueva, saldremos de excursión. (Restrictiva)
+4. *Como no* llegues a tiempo, nos vamos sin ti. (Advertencia)
+5. *En caso de que* haya problemas, llámame. (Compleja)
+
+---
