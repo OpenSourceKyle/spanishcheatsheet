@@ -703,7 +703,9 @@ Estructuras que expresan condiciones en español, desde generales hasta restrict
 
 | Estructura                    | Uso                                  | Modo Verbal |
 |------------------------------|--------------------------------------|-------------|
-| Si + presente/imperfecto     | Condiciones reales o posibles        | Indicativo  |
+| Si + presente/copretérito    | Condiciones reales o posibles        | Indicativo  |
+| Si + copretérito/pospretérito| Condiciones hipotéticas             | Subjuntivo  |
+| Si + antepretérito          | Condiciones imposibles (pasado)      | Subjuntivo  |
 | De + infinitivo             | Alternativa formal a "si"            | -           |
 
 ### ⚠️ Condiciones Mínimas (Siempre con subjuntivo)
