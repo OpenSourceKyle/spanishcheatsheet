@@ -27,7 +27,7 @@ Palabras que enlazan oraciones indicando relaciones temporales (simultaneidad, a
 | siempre que                 | whenever/as long as   | Indicativo/Subjuntivo | Neutro     |
 | apenas                      | as soon as            | Indicativo            | Formal     |
 
-## Ejemplos
+## 💡 Ejemplos
 1. Te llamo en cuanto **llegue**. (Subjuntivo)
 2. Nada más **terminar**, salió. (Indicativo)
 3. Lo veo cada vez que **viene**. (Indicativo)
@@ -41,7 +41,7 @@ Se usan para expresar creencias o suposiciones. Las oraciones que los acompañan
 - **Indicativo** para afirmaciones positivas.
 - **Subjuntivo** en negaciones o dudas.
 
-## 🗣️ Términos y expresiones
+## 📚 Términos y expresiones
 
 | Término                | Traducción         | Modo Verbal | Formalidad |
 |------------------------|--------------------|-------------|------------|
@@ -53,12 +53,12 @@ Se usan para expresar creencias o suposiciones. Las oraciones que los acompañan
 | no creo que            | I don't think that | Subjuntivo  | Neutro     |
 | supongo que            | I suppose that     | Indicativo  | Neutro     |
 
-## Ejemplos
+## 💡 Ejemplos
 1. Creo que **es** una buena idea. (Indicativo)
 2. No creo que **tengas** razón. (Subjuntivo)
 3. Me parece que **está** bien hecho. (Indicativo)
 
-### Decir
+### 📝 Decir
 
 #### Indicativo
 - **alguien dijo que ella está enferma** -- someone said that she is sick (Indicativo)
@@ -115,7 +115,7 @@ Evalúan situaciones, expresando opiniones o valoraciones (positivas, negativas,
 | agradezco            | appreciate           | Subjuntivo  | Formal     |
 | lamento              | regret               | Subjuntivo  | Neutro     |
 
-## Ejemplos
+## 💡 Ejemplos
 1. Es obvio que **tiene** razón. (Indicativo)
 2. Es importante que **vengas**. (Subjuntivo)
 3. ¡Qué lástima que **no puedan** venir! (Subjuntivo)
@@ -131,7 +131,7 @@ Describen o especifican un sustantivo. Se distinguen dos usos:
 - **Especificativas** (sin comas) cuando el referente es indeterminado o se busca identificarlo.
 - **Explicativas** (con comas) para añadir información extra sobre un referente ya conocido.
 
-## 🔑 Términos clave
+## 📚 Términos clave
 
 | Término                    | Traducción       | Modo Verbal           | Formalidad    |
 |----------------------------|------------------|-----------------------|---------------|
@@ -148,11 +148,11 @@ Describen o especifican un sustantivo. Se distinguen dos usos:
 - **Indicativo:** Referente concreto o conocido. Ej.: *Conozco al profesor que enseña francés.* (Cosa específica)
 - **Subjuntivo:** Referente hipotético o no confirmado. Ej.: *Busco un libro que tenga dibujos.* (Cosa desconocida o en general)
 
-## Oraciones Especificativas
+## 📝 Oraciones Especificativas
 - Sin comas: *que* o *preposición + relativo*
 - Ejemplo: *El libro que leí es interesante.* (The book that I read is interesting)
 
-## Oraciones Explicativas
+## 📝 Oraciones Explicativas
 - Con comas: *que*, *lo/el/la/los/las que*, *lo/el/la/los/las cual(es)*, *quien*, *cual*, *cuyo*
 - Ejemplo: *El libro, que es muy interesante, está en la mesa.* (The book, which is very interesting, is on the table)
 
@@ -187,7 +187,7 @@ Se emplea para resaltar la acción o el objeto en vez del sujeto. Existen dos fo
 ## 📝 Definición
 Palabras o expresiones que estructuran el discurso conectando ideas. Su uso adecuado da cohesión y fluidez al texto.
 
-## Por función
+## 📚 Por función
 
 ### 📅 Secuencia/Orden
 
@@ -391,7 +391,7 @@ Formas de dar consejos que pueden expresarse de forma directa (mandatos) o indir
   - estructuras impersonales
   - preguntas sugerentes
 
-## ➡️ Formas
+## 📚 Formas
 
 *Nota:* se usa _presente_ de indicativo o subjuntivo en sus respectivos casos.
 Ordenado de más directo a menos directo.
@@ -463,7 +463,7 @@ El estilo directo reproduce las palabras exactas (usando comillas o guiones), mi
 | Pregunta indirecta | **que**      | "¿Dónde vives?"   | Preguntó **que** dónde vivía               |
 | Pregunta de sí/no  | **si**       | "¿Vendrás mañana?"| Preguntó **si** vendría al día siguiente |
 
-## 📝 Ejemplos completos
+## 💡 Ejemplos completos
 1. **Directo:** Juan: "Estoy muy feliz."
    **Indirecto:** Juan dijo que **estaba** muy feliz.
 2. **Directo:** María: "¿Podrás ayudarme mañana?"
@@ -529,7 +529,7 @@ Estructuras que expresan valoraciones sobre el sabor, apariencia o calidad de al
 ## 📝 Definición
 Es el uso de una oración subordinada introducida por **"de que"** para modificar un **sustantivo**. Es una construcción **formal**, común en lenguaje **escrito**.
 
-## 🧱 Estructura
+## 📚 Estructura
 
 | Tipo de sustantivo que modifica | Verbo en la subordinada      | Ejemplo                                           |
 |----------------------------------|-------------------------------|--------------------------------------------------|
@@ -655,6 +655,7 @@ Estructuras que expresan una objeción o dificultad que no impide la realizació
 7. Aun **sabiendo** que generará disturbios, lo aprobaron. (Acción en curso)
 8. Y eso que **salió** temprano de casa. (Con reproche)
 9. Si bien **no es** el resultado que esperaba, estoy contento. (Matiz contrastivo)
+<<<<<<< HEAD
 10. Hagas lo que **hagas**, pienso salir de excursión este fin de semana. (Indiferencia)
 
 ---
@@ -737,3 +738,6 @@ Estructuras que expresan condiciones en español, desde generales hasta restrict
 5. *En caso de que* haya problemas, llámame. (Compleja)
 
 ---
+=======
+10. Hagas lo que **hagas**, pienso salir de excursión este fin de semana. (Indiferencia)
+>>>>>>> 5ed8cda4cf4d6b1e3cc323d8650165c673dbc74e

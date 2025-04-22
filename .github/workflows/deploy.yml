@@ -17,10 +17,11 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Install Hugo CLI
         run: |
-          HUGO_VERSION=$(curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest | grep -oP '"tag_name": "v\K[^"]*')
+          HUGO_VERSION=0.145.0
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb
 
@@ -29,9 +30,6 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
-
-      - name: DEBUG - List files
-        run: find . -type f | grep schema_json
 
       - name: Setup Pages
         id: pages
@@ -62,4 +60,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4 
+        uses: actions/deploy-pages@v4
