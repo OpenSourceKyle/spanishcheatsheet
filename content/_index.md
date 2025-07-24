@@ -531,17 +531,18 @@ Es el uso de una oración subordinada introducida por **"de que"** para modifica
 
 ## 📚 Estructura
 
-| Tipo de sustantivo que modifica | Verbo en la subordinada      | Ejemplo                                           |
-|----------------------------------|-------------------------------|--------------------------------------------------|
-| Emoción                          | Subjuntivo                   | *Expresó la necesidad de que se trabaje más.*     |
-| Voluntad                         | Subjuntivo                   | *Manifestó el deseo de que vengas.*               |
-| Comunicación                     | Indicativo (+) o Subjuntivo (-) | *No anunció la noticia de que vino tarde.*        |
-| Percepción (cosas menores)       | Indicativo (+) o Subjuntivo (-) | *No tenía la impresión de que entendiera nada.*   |
-| Cosas Mentales                   | Indicativo (+) o Subjuntivo (-) | *No tenía la impresión de que pueda funcionar.*   |
-| Tiempo                           | Subjuntivo                   | *Ya es la hora de que descansemos.*               |
-| Causa                            | Subjuntivo                   | *La alegría de que hayas venido.*                 |
-| Concepto (1ª vez)                | Indicativo                   | *La idea de que la Tierra es redonda.*            |
-| Concepto (2ª+ vez)               | Subjuntivo                   | *La idea de que sea posible viajar.*              |
+| Tipo de sustantivo que modifica | Verbo en la subordinada        | Ejemplo                                               |
+|----------------------------------|-------------------------------|--------------------------------------------------------|
+| Emoción                          | Subjuntivo                   | *La emoción de que se logre el objetivo.*             |
+| Voluntad                         | Subjuntivo                   | *El deseo de que vengas mañana.*                      |
+| Comunicación                     | Indicativo (+) o Subjuntivo (-) | *La noticia de que vino tarde fue confirmada.*        |
+| Percepción (cosas menores)       | Indicativo (+) o Subjuntivo (-) | *La impresión de que entendía era equivocada.*        |
+| Cosas Mentales                   | Indicativo (+) o Subjuntivo (-) | *La sospecha de que pueda fallar preocupa al equipo.* |
+| Tiempo                           | Subjuntivo                   | *Es la hora de que empiece la reunión.*               |
+| Causa                            | Subjuntivo                   | *La alegría de que hayas venido fue evidente.*         |
+| Concepto (1ª vez)                | Indicativo                   | *La teoría de que el universo es infinito.*           |
+| Concepto (2ª+ vez)               | Subjuntivo                   | *La posibilidad de que sea cierto nos intriga.*        |
+
 
 ## ⚠️ Notas
 - Se usa para evitar la repetición de estructuras con **"que"**.  
@@ -739,3 +740,61 @@ Estructuras que expresan condiciones en español, desde generales hasta restrict
 5. *En caso de que* haya problemas, llámame. (Compleja)
 
 ---
+
+# 🔄 19. Perífrasis de Gerundio
+
+## 📝 Definición
+Estructuras verbales que combinan un verbo auxiliar con un gerundio para expresar diferentes matices de una acción en desarrollo.
+
+| Perífrasis                | Matiz / Uso                                                                 | Ejemplo en español                                 | Traducción al inglés                        |
+|---------------------------|-----------------------------------------------------------------------------|----------------------------------------------------|---------------------------------------------|
+| 🟢 **Estar + gerundio**   | Acción en desarrollo                                                        | *Estoy estudiando ahora.*                          | I am studying right now.                    |
+| 🔁 **Andar + gerundio**   | Acción reiterada, insistencia o repetición                                  | *Ando buscando mis llaves todo el día.*            | I've been looking for my keys all day.      |
+| 🐢 **Ir + gerundio**      | Acción que se desarrolla lenta y gradualmente                               | *Voy aprendiendo español poco a poco.*             | I am gradually learning Spanish.            |
+| 🕰️ **Venir + gerundio**  | Acción iniciada en el pasado y que continúa hasta el presente                | *Vengo diciendo lo mismo desde hace años.*         | I've been saying the same thing for years.  |
+| ⏳ **Llevar + gerundio**  | Indica la duración de la acción (requiere determinación temporal explícita) | *Llevo 6 meses estudiando...*                      | I've been studying for 6 months...          |
+
+# 🗣️ 20. Vocabulario con Significado y Registro
+
+| Español      | English                        | Registro |
+|--------------|---------------------------------|----------|
+| farragoso    | confusing / hard to follow      | formal   |
+| afectado     | pretentious / affected          | neutral  |
+| predecible   | predictable                     | neutral  |
+| irrisorio    | laughable / ridiculous          | formal   |
+| escabroso    | scandalous / risqué             | formal   |
+| sangriento   | bloody                          | neutral  |
+| tedioso      | tedious / boring                | neutral  |
+| inexacto     | inexact / inaccurate            | formal   |
+| disparatado  | absurd / nonsensical            | neutral  |
+| desmesurado  | excessive / disproportionate    | formal   |
+| aburrido     | boring                          | neutral  |
+| absurdo      | absurd                          | neutral  |
+| ridículo     | ridiculous                      | neutral  |
+| esperable    | expected / foreseeable          | formal   |
+| confuso      | confusing                       | neutral  |
+| cruento      | bloody / gory                   | formal   |
+| impreciso    | imprecise                       | formal   |
+| exagerado    | exaggerated                     | neutral  |
+| pretencioso  | pretentious                     | neutral  |
+| morboso      | morbid                          | neutral  |
+| excelente    | excellent                       | neutral  |
+| emotivo      | emotional / touching            | neutral  |
+| sorprendente | surprising                      | neutral  |
+| entretenido  | entertaining                    | neutral  |
+| veraz        | truthful / accurate             | formal   |
+| apasionante  | exciting / thrilling            | neutral  |
+| divertido    | fun                             | neutral  |
+| misterioso   | mysterious                      | neutral  |
+| absorbente   | absorbing / engaging            | neutral  |
+| único        | unique                          | neutral  |
+| intrigante   | intriguing                      | neutral  |
+| singular     | singular / unique               | formal   |
+| ameno        | pleasant / enjoyable            | formal   |
+| emocionante  | exciting                        | neutral  |
+| fidedigno    | reliable / trustworthy          | formal   |
+| magnífico    | magnificent                     | neutral  |
+| gracioso     | funny / charming                | neutral  |
+| conmovedor   | moving / touching               | neutral  |
+| asombroso    | amazing / astonishing           | neutral  |
+| cautivador   | captivating                     | neutral  |
